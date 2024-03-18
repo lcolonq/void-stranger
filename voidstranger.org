@@ -1,0 +1,5373 @@
+* General notes
+- Chests must be opened from the front.
+- Chests turn you around after opening them
+- Shiny squares/crystals are picked up with the staff
+- Staff can pick up anything, including stairs
+- Obtained crystals seem to disappear in subsequent runs!
+- Crystals seem to be a currency used in the "memories" menu
+- A common technique is what I'm calling "boating": if you have 3 contiguous tiles, you can travel any distance.
+  (Along that axis)
+* Technology
+- Jumping down a pit in front of a crab statue consumes all locusts and advances that many floors.
+- Going down stairs in front of a 4-eyed statue (dark idol) sends you back to B001 and undoes voiding.
+- "Giving up" after dying resets the game and all NPCs.
+  Brands can be entered on the title screen to start with items / infinite locusts.
+- Bonking the back of a chest 3 times and then waiting 3 seconds makes the chest contain 3 locusts.
+- In certain levels, you can reach and manipulate the UI as tiles. I'm sure this is useful for something.
+- Can hold E to skip dreams.
+* Things to do/look out for
+** Try "A suspicious empty chest surrounded by nothing, inspect it one too many times..."
+** Investigate [[*B223]] using UI change warp or crab statue skip
+** Investigate putting brands on [[*B227]].
+** Try hitting the locust counts by the listed floors under [[*B089]] to summon the merchant (Mon).
+Got merchant tips on: [[*B004]], [[*B044]], [[*B086]]
+Need to try [[*B184]] and [[*B196]]
+** Solve snake puzzle (Eus brand)
+[[./images/snake]]
+Broken mural: [[./images/mural_B029.jpg]]
+Tail status (X = snake tail present):
+- [X] B031 [[./images/snake/B031.jpg]]
+- [X] B032 [[./images/snake/B032.jpg]]
+- [ ] B033
+- [ ] B034
+- [X] B035 [[./images/snake/B035.jpg]]
+- [X] B036 [[./images/snake/B036.jpg]]
+- [X] B037 [[./images/snake/B037.jpg]]
+- [X] B038 [[./images/snake/B038.jpg]]
+- [ ] B039
+- [ ] B040
+- [ ] B041
+- [X] B042 [[./images/snake/B042.jpg]]
+- [ ] B043
+- [X] B044 [[./images/snake/B044.jpg]]
+- [X] B045 [[./images/snake/B045.jpg]]
+- [X] B046 [[./images/snake/B046.jpg]]
+- [X] B047 [[./images/snake/B047.jpg]]
+- [X] B048 [[./images/snake/B048.jpg]]
+- [X] B049 [[./images/snake/B049.jpg]]
+- [ ] B050
+- [ ] B051
+- [ ] B052
+- [ ] B053 (this is the pattern room)
+Let's try just filling them in row by row.
+Well that clearly doesn't work, it doesn't match by the second row.
+I'll try to wrangle them in GIMP.
+* Things to do/look out for (complete)
+** Win without voiding
+This unlocked Lillie
+** Try bonking chest more than 3 times and waiting longer
+Does nothing seemingly
+** Look for room with 3 leeches where one is immobile (merchant tip)
+This is [[*B037]] I think
+** B000 UI Warp
+Used UI manipulation to go to this floor.
+There's a huge mishapen mound of flesh here, along with stairs.
+Seemingly cannot interact with it.
+Was able to grab the crystal on B001 this way.
+* Void Lords
+** Add
+(Maybe) Domain starts: [[*B001]]
+Missing?
+** Eus
+Domain starts: [[*B028]]
+Mural is scratched out (presumably because Eus rebelled?)
+Tail is their severed tail?
+Quote on [[*B041]]:
+#+begin_quote
+Here lies the domain of the first traitorous Void Lord...
+The one who once was Lord Add's most trusted ally...
+Shall their name never grace these halls again...
+Don't ask how I know...
+#+end_quote
+
+Quotes on [[*B051]]:
+#+begin_quote
+They say the lord of this area was the one who instigated war between Void Lords...
+Lord Add didn't want to believe it...
+Yet their transgression couldn't be foreign either...
+Don't ask how I know...
+#+end_quote
+#+begin_quote
+I WAS SO CLOSE
+BUT THEN ADD THREW ME AWAY
+EUS
+I WAS SUPPOSED TO HAVE THAT NAME
+I WAS NOT GOOD ENOUGH
+CURSE THAT WORM
+GIVE MY NAME BACK
+#+end_quote
+** Bee
+(Maybe) Domain starts: [[*B056]]
+Enjoyed locusts with Lord Add.
+Boasted about their cruelty but never seen being cruel.
+Always smiling.
+The funny girl with the horns, smited at the end of Lillie's run.
+Sister of Cif.
+** Mon
+Domain starts: [[*B084]]
+Mural is scratched out (presumably because Mon rebelled?)
+The merchant.
+Quote on [[*B087]]:
+#+begin_quote
+Here lies the domain of the second traitorous Void Lord...
+The calculating charlatan, forever blinded by their own covetousness...
+Shall their name never grace these halls again...
+Don't ask how I know...
+#+end_quote
+** Tan
+Domain starts: [[*B112]]
+Sister of Gor.
+Missing their left eye.
+** Gor
+(Maybe) Domain starts: [[*B140]]
+Mural is scratched out (presumably because Gor rebelled).
+The big head on [[*B143]].
+Wants to die.
+Has a sister missing their left eye.
+Sister is Tan.
+Quote on [[*B144]]:
+#+begin_quote
+Here lies the domain of the third traitorous Void Lord...
+Whose feeble apathy is second only to their indecisiveness...
+Shall their name never grace these halls again...
+Don't ask how I know...
+#+end_quote
+** Lev
+Domain starts: [[*B168]]
+Quote on [[*B171]]:
+#+begin_quote
+Here lies the domain of Lord Lev, The Devious...
+The unloving vassal of Void...
+Their devotion rivaled even Lord Add's...
+Don't ask how I know...
+#+end_quote
+Killed their sister, Mon.
+Their domain is "The Seventh Circle". This is the seventh area, so presumably other "circles" correspond likewise.
+I think this is the masked member of the Void Court.
+** Cif
+Domain starts: [[*B196]]
+Brand was carved somewhere in their domain ([[*B197]] mentions this).
+Presumably associated with the 4-eyed statues.
+The girl with the glasses.
+Playable character of the third run.
+Looking for Bee (her sister).
+Sister of Cif.
+** ???
+Domain starts: [[*B224]]
+Is this us? Our brand is shown in the mural.
+* Floors
+** Opening
+Light lands in the arctic
+** B001
+Mural
+[[./images/mural_B001.jpg]]
+Mural transcription using alphabet:
+I....O
+...EY.
+.ERMAN
+NMYOM.
+.AR...
+S....L
+Read up to down, right to left, it seems (spells ONLYAMEMORYREMAINS)
+*** Lillie
+The mural "somehow feels familiar"
+*** Cif
+#+begin_quote
+[The mural is filled with inscriptions]
+[It reads:]
+ONLYAMEMORYREMAINS
+[...]
+[You wonder why Add would leave such a message]
+#+end_quote
+** B002
+Staff obtained
+*** Lillie
+#+begin_quote
+[You acquired a strange rod]
+[Simply holding it makes you feel uneasy]
+[Something is wrong]
+#+end_quote
+*** Cif
+#+begin_quote
+[Add's scepter...]
+[...]
+[Time to find Bee!]
+#+end_quote
+** B003
+Locust in chest
+Seemingly useless boulder.
+Message from "Bee" in open chest about snacks
+#+begin_quote
+[There's a note inside]
+[It's written in a language you can read]
+[It reads:]
+I snuck in some of your favorite snacks.
+Have some when you're feeling down.
+And please don't tattle to my sis.
+It's our little secret! -Bee
+[The message makes little sense to you]
+#+end_quote
+
+Boulder:
+#+begin_quote
+Knock the backside of the chest three times in a row while it's closed...
+Then wait for three seconds...
+Something good should happen...
+Don't ask how I know...
+#+end_quote
+*** Lillie
+Oh god it's much harder now.
+All items gone, there's a diamond right by the stairs.
+Missed crystal.
+Got crystal.
+*** Cif
+Seems to be back to easier difficulty.
+We start VOIDed, so I guess we don't need to worry about locusts?
+Can still get locusts!
+Also still fall after one square of flight - rules are probably the same!
+Let's check chests and boulders anyway, this seems like the character to find new lore.
+Chest is just empty, no note from Bee.
+** B004
+Locust in chest
+Seemingly useless boulder
+
+Boulder:
+#+begin_quote
+A long time ago...
+These halls were governed by beings known as Void Lords...
+Their leader was Lord Add, The Beginning...
+Don't ask how I know...
+#+end_quote
+
+Upon entering with 3 locusts, an NPC was there and the music was different:
+#+begin_quote
+Ksi shi shi shi shi shi shi...
+Stranger, stranger...
+Are those locusts in your pocket or are you just happy to see me?
+How about a trade?
+As you might've noticed, traveling through these halls can get rather tiresome.
+There are, however, shortcuts that few know about...
+If you hand over all your locusts, I'll give you a hint on how to find one of them!
+We wouldn't want that noggin of yours to go completely dull.
+So, how about it, stranger?
+
+[You decided to trade your locusts for a tip]
+Ksi shi shi shi shi shi shi...
+Thank you.
+Here's your tip, so listen carefully:
+In the seventh room, just one more step beyond the exit...
+Try to keep this to yourself.
+It'll be more fun that way.
+Now now, I never said finding those shorcuts [sic] would be easy...
+It wouldn't be any fun like that anyway.
+Ksi shi shi shi shi shi shi...
+[The dubious merchant smirks, barely able to contain their laughter]
+
+[...]
+["In the seventh room, just one more step beyond the exit..."]
+[... Did they just swindle you?]
+#+end_quote
+*** Lillie
+Punishment statues, diamond.
+** B005
+Locust in chest
+Mysterious 4-eye statue
+
+Let's try doing the "dark idol thing" in front of it
+It works!
+Appears to reset the run.
+*** Lillie
+Died.
+Refused to eat apple.
+Restarted.
+Unlocked a special brand for "Lillie"
+Re-entered a new run as Lillie with all items and infinite locusts.
+** B006
+Locust in chest
+** B007
+Introduces boulder pushing?
+
+Followed merchants tip, and jumped down the pit past the stairs.
+This led to a strange organic-like B??? with a tablet.
+The tablet had a strange pulsing image with numbers:
+[[./images/B007_below_tablet.jpg]]
+[[./images/B007_below_tablet_pulse.jpg]]
+*** Lillie
+Did the trick, tablet appears to be the same?
+*** Cif
+Did the trick, tablet appears to be the same.
+** B008
+More boulder pushing
+** B009
+Locust in chest
+Mysterious 4-eye statue
+** B010
+Original map:
+ .o.*..o.
+ o.oooo.o
+ .o.o..!.
+ o.oo.o.o
+@.o.o.o.o
+ o.o.o.o.
+
+Got crystal from *, could not reach chest at !
+Crystal disappeared upon going down the stairs.
+Got chest on second run, locust.
+** B011
+Introduces snakes?
+Snakes move when you do.
+They take one turn to turn around when they hit the wall
+** B012
+Locust in chest.
+** B013
+Introduces grubs?
+Like snakes, but vertical?
+** B014
+Locust in chest.
+Crystal available.
+Crystal disappeared upon going down the stairs.
+** B015
+Got crystal.
+(Trick is to place block down by stairs first, and then trap grub on that block)
+** B016
+Got crystal.
+** B017
+Nothing notable?
+Boulder:
+#+begin_quote
+The battle between Void Lords raged on for years...
+Until only three lords were left intact...
+Add and two of their followers...
+Don't ask how I know...
+#+end_quote
+** B018
+Crab statue?
+Crab statue destroys grub if pushed into them
+Locust in chest
+** B019
+Mysterious 4-eyes statue.
+Got crystal.
+** B020
+Nothing notable?
+** B021
+Got crystal.
+** B022
+Nothing notable?
+** B023
+Got crystal.
+This room is the same pattern as the B001 mural, except from the stairs.
+Patterns around the side glow only when the stairs are removed.
+Presumably we need to replace another block with the stairs.
+Doing this seemingly didn't work?
+
+Another try - let's try just picking up the stairs and jumping down.
+This warped us to another place! (labeled B???)
+And we acquired "a strange feeling" in a chest.
+"Your mind feels heavier"
+"...You don't know what to make of it"
+It looks like a cube in the UI.
+
+Examining the empty chest:
+#+begin_quote
+It's empty
+... Wait
+There's a note inside
+It's written in a language you can read
+It reads:
+My memory of you.
+With this, you should be able to hear the voice of fallen, all who were and those who are yet to be.
+And if someone else (that includes you, sis) is reading this...
+Scram. -Bee
+The message makes little sense to you.
+#+end_quote
+So I guess this does what Tail was talking about, and lets us talk to eggs? (boulders)
+
+Talking to a boulder in that room, it says to knock the chest 6 times in a row and then wait 6 seconds for the exit to appear.
+#+begin_quote
+Knock that chest over there six times in a row...
+Remain still and wait for six seconds...
+The exit will reveal itself...
+Don't ask how I know...
+#+end_quote
+This does indeed reveal the stairs, and sends us to B025.
+*** Cif
+Did the same, seemingly nothing different.
+Chest:
+#+begin_quote
+It's empty
+... Wait
+There's a note inside
+It reads:
+My memory of you.
+With this, you should be able to hear the voice of fallen, all who were and those who are yet to be.
+And if someone else (that includes you, sis) is reading this...
+Scram. -Bee
+(...)
+(You absolute nimrod...)
+#+end_quote
+** B024
+Mysterious 4-eyes statue.
+Cannot reach chest.
+*** Lillie
+Got crystal
+** B025
+Seemingly useless boulder.
+Locust in chest.
+
+Now we can talk to the boulder!
+#+begin_quote
+So you can hear me...
+Not everyone around here is worth listening to...
+Us lonely ones are quite knowledgeable though...
+Don't ask how I know...
+#+end_quote
+** B026
+Locust in chest.
+*** Lillie
+Watch out! Need to move stairs or will reset run.
+** B027
+Crystal under woman.
+Woman:
+#+begin_quote
+Please don't kill me!
+...
+You aren't one of those things, are you?
+Sheesh.
+Scared me senseless right there you know.
+
+[The frightened lady seems to have regained her composure]
+[You ask her what she's doing here]
+I was about to ask you the same thing.
+Honestly I can't even remember how I ended up in this place.
+What was I doing?
+Sister Ballbuster is gonna skin me alive if I don't show up soon.
+It's a pinch.
+
+You wouldn't happen to know a way out?
+[You tell her the only option is to keep moving]
+And here I thought you looked so capable.
+Seriously, don't leave me hanging like that.
+Especially with these things crawling around.
+You've seen them too, haven't you?
+Or am I going crazy?
+
+...
+Wait.
+I think I remember now.
+I was working in the garden when I stumbled upon this strange pit.
+I'm sure it wasn't there before, its edges were too clean.
+Almost like it had appeared out of nowhere.
+I must have fallen and hit my head or something like that.
+Is this a dream?
+
+[She seems to be lost in thought]
+
+[She seems to be lost in thought]
+
+...
+Hey.
+Do you believe in ***?
+Sister Ballbuster never stops yapping about that stuff.
+You must repent, only then *** will save you.
+Despite how I may look, I never believed it.
+Sure I've made a few mistakes in my life...
+But it seems awfully convenient, don't you think?
+Just believe in *** and in the end everything will be alright.
+Like someone came up with it to have an easy way out.
+...
+What am I even talking about anymore.
+Forget it.
+I need to prepare my sorry ass for a whooping.
+Oh, and if you happen to find the exit, let me know, thanks.
+
+[You decide not to bother her for any longer]
+#+end_quote
+
+She's gone on the next run too.
+** B028
+Tree, no music.
+Asks to rest. Said yes. Game closed.
+Game reopened with a castle scene.
+Guards ask you to calm down princess.
+After entering her room, opening blinds, and checking the bed, JRPG battle starts.
+Saying "check" reveals "One of the princess's many tantrums"
+Pressed "defend" repeatedly until enemy was too bored to continue.
+The princess is stinky.
+
+Another run, I defeated her by attacking and blocking while appropriate.
+Slightly different dialogue, but seems like just flavor?
+*** Lillie
+Still a rest tree.
+Reopened game.
+#+begin_quote
+You've grown so fast...
+<gray nursing lillie?>
+What a relief.
+This world may have changed.
+But you'll need to become strong, for your mother's sake.
+She's still waiting...
+I can't let her down again.
+#+end_quote
+Got crystal.
+*** Cif
+#+begin_quote
+[This Lotus-Eater Machine doesn't seem to be operational]
+[Better move on]
+#+end_quote
+** B029
+Crab statue, boulder, and 4-eyes statue.
+Also a mural on the wall: cannot reach it.
+
+Reached it with wings:
+You can only make out some of the characters: MIOENS
+[[./images/mural_B029.jpg]]
+
+Boulder:
+#+begin_quote
+The tail of the traitorous lord connects the brand...
+At least when they were still alive...
+Although I'm not sure how that's supposed to work...
+Don't ask how I know...
+#+end_quote
+*** Lillie
+Mural is the same.
+*** Cif
+#+begin_quote
+[The mural is badly damaged]
+[The remaining characters spell complete gibberish without any deeper meaning]
+[...]
+[Who'd damage it like this?]
+#+end_quote
+** B030
+Many boulders, funny statue (looks like up arrow)
+Huge snake woman.
+Her name is Tail.
+Apparently the "boulders" are eggs, and you can hear their thoughts?
+Some floors have more than one exit, but they are hidden, and only the remaining Void Lords know how to access them.
+She has a story:
+#+begin_quote
+When Void was still in flux, when all eight Void Lords still roamed these parts...
+One of them, named Eus, ruled over this particular realm.
+They were assigned as the gatekeeper and the judge of the lost souls who arrived here.
+No soul could get past their judgment, no sin went unpunished.
+But as vigilant and rigorous as they were, Eus was endlessly fascinated by sin.
+This fascination grew and grew, until Eus did the unthinkable and committed sin themself.
+What was the true extent of their sin, I'm not entirely sure.
+When the other lords learned of this transgression, their ranks divided.
+Some of them defended Eus, some reviled them.
+Soon arguments turned into fights and those fights turned into vicious battles.
+In the end, Eus was devoured so that nothing remained.
+Well, one part of Eus did manage to slither away unnoticed.
+It lay in silence, mindlessly consuming any stray souls that approached it.
+It only knew pain and hunger.
+But as its wounds began to heal, it learned to think.
+It started to ponder why no amount of lost souls would satiate it.
+Why it was unable to leave these walls.
+Why it was allowed to live.
+Eventually it accepted its rotten existence, knowing well that none of its questions would ever be answered.
+That's how I came to be.
+...
+#+end_quote
+
+Talking to boulders:
+#+begin_quote
+Stop it!
+#+end_quote
+
+#+begin_quote
+Mommy.
+#+end_quote
+
+#+begin_quote
+Laalaa lala la laaa...
+#+end_quote
+
+#+begin_quote
+How long have I been here?
+#+end_quote
+
+#+begin_quote
+Make it end.
+#+end_quote
+
+Talking to Tail on the next run through:
+#+begin_quote
+Oh, it's you again...
+...
+I'm sorry.
+I was advised not to speak with you...
+
+...
+#+end_quote
+*** Lillie
+Tail now has a snake's head too, with 3 eyes.
+#+begin_quote
+Hello, little one.
+
+It talks...?!
+
+Sorry, did I startle you there?
+... I should've known better, considering your kind tends to keep their distance from me.
+But I assure you I mean no harm.
+In truth, I haven't spoken with anyone in ages, so this is quite refreshing.
+Pleased to meet you.
+My name is Tail.
+
+You seem surprisingly calm for someone of your size.
+
+Well, it's not like I speak with giant snakes on an everyday basis.
+Actually, I think I may've heard stories about you when I was much younger.
+My memories are quite hazy...
+But you don't look like I imagined.
+
+Is that so?
+... That makes sense.
+
+Have you heard of the Void Lords as well, little one?
+Are you talking about the demons?
+Yeah, I think that's what my...
+...
+... She used to call them.
+
+A long time ago, I was a part of one of the Lords.
+While all Lords are able to change their appearance as they wish...
+My Lord, Eus, was unique.
+They say everyone saw them differently, that their form would reflect the viewer's one true love.
+What purpose that trait served I can't tell.
+But it seems I might have inherited it.
+Considering you can see my true form...
+I guess you haven't met anyone you'd like to copulate with?
+
+... What's up with the crass tongue all of a sudden?
+Love isn't about...
+... Copulating...
+Besides, the last few years have just been a bit rocky, okay?
+
+Sorry.
+My understanding of mortals and their manners is rather limited.
+
+... Why am I talking about this with you in the first place?
+Why am I in here anyway?
+Isn't this just a bad dream?
+From your point of view, that might as well be true.
+Don't let your guard down however.
+Those without strong devotion are bound to lose their way within this labyrinth, until nothing remains of them.
+Whatever it is that you're looking for...
+I hope you find it eventually.
+
+... Thanks, I guess.
+
+Take care, little one.
+#+end_quote
+*** Cif
+Tail still has snake head.
+"Unremarkable" boulder:
+#+begin_quote
+(...)
+(I'm so tired of listening to these things...)
+#+end_quote
+
+Tail:
+#+begin_quote
+You feel...
+Familiar?
+
+Be careful there.
+My scales are rather sensitive.
+
+Cif?
+Is that you?
+
+Long time no see, Tail.
+
+Indeed.
+How long has it been?
+Two, three hundred years?
+I hope I haven't angered you...
+
+Calm down.
+I'm not after you.
+Speaking of...
+Have you seen Bee around here?
+
+Hmm, they did come here and tell me not to speak with strangers.
+But that was a good while ago.
+Have they gone missing?
+
+Don't worry about it.
+I'll find them eventually.
+
+Maybe Gor knows something?
+
+I doubt it.
+They're probably sleeping, as usual.
+
+Hmmm...
+
+Was there anything else?
+
+I'm not sure if this is of any help to you, but...
+Someone else did pass by earlier.
+
+What about it?
+
+It was Mon.
+
+Mon?
+Are you certain?
+
+I didn't see them properly.
+They were groping my scales.
+I don't usually mind that much.
+Yet something about their touch made me feel uncomfortable.
+Like I had felt something similar before.
+It's certainly Mon.
+
+...
+Did they talk to you?
+
+No, but they were muttering something.
+About heading towards The Seventh Circle.
+
+Lev's territory...
+
+You sound concerned.
+
+Mon should be dead.
+Lev themself killed them back then...
+Or so I thought.
+Something doesn't add up.
+...
+Worrying does us little good.
+Just stay vigilant for now.
+
+I'll do my best...
+Good luck with your search, Cif.
+#+end_quote
+** B031
+Crab statue.
+New enemy - mouth ghost thing.
+It walked into the pit.
+*** Cif
+Snake on the edges of room.
+Pattern like:
+#+begin_src
+#..
+.#.
+#.#
+#+end_src
+** B032
+New tile - ice.
+Breaks when you move off of it.
+You can interact/punch without breaking.
+Locust in chest.
+*** Cif
+Snake on far right of room.
+No obvious pattern.
+Maybe should start screenshotting these rooms.
+(I didn't do it, but I'll note which rooms have snakes?)
+** B033
+Locust in chest.
+Got crystal.
+** B034
+Locust in chest.
+Got crystal.
+** B035
+Many boulders.
+Locust in chest.
+First tricky one. Need to cross ice bridge, grab block, go back, and use blocks from starting area to "replace" ice.
+
+Boulders:
+#+begin_quote
+I can't see anything.
+#+end_quote
+*** Lillie
+Got crystal
+*** Cif
+Snakes on both edges.
+** B036
+Locust in chest.
+Got crystal.
+Somewhat similar to previous: cross ice, "boat" back with 3 normal tiles. Somewhat tedious, gotta go all the way back around :3
+*** Cif
+Snakes on bottom right corner.
+** B037
+Snakes break ice!
+Locust in chest.
+
+Fell behind the chest, according to merchant tip.
+Taken to an organic-looking B???.
+Contains a memory crystal, stairs, and a wall tablet.
+[[./images/B037_below_tablet.jpg]]
+Took the stairs, warped to [[*B053]]
+*** Lillie
+Took shortcut, wall tablet is the same.
+*** Cif
+Took shortcut, wall tablet is the same.
+** B038
+Snake/tail? along the bottom of the screen?
+** B039
+Crab statue.
+Got crystal.
+** B040
+Locust in chest.
+Mouth-ghosts only start moving when you're in their row.
+** B041
+Locust in chest.
+Mouth-ghost vision is obscured by boulders.
+
+Boulder:
+#+begin_quote
+Here lies the domain of the first traitorous Void Lord...
+The one who once was Lord Add's most trusted ally...
+Shall their name never grace these halls again...
+Don't ask how I know...
+#+end_quote
+** B042
+More snake parts.
+Suspiciously simple.
+** B043
+Mouth-ghosts will chase both horizontally and vertically.
+Locust in chest.
+** B044
+Seemed to be crystal under boulder, but perhaps it was on ice?
+Pushing boulder broke the tile.
+Maybe that was just ice sparkles?
+Does moving boulders on ice break the ice? Same as player/enemies?
+
+Boulders:
+#+begin_quote
+Hey.
+#+end_quote
+Couldn't reach the other one easily, perhaps it says something?
+
+Entered with 26 locusts, got a merchant.
+#+begin_quote
+Ksi shi shi shi shi shi shi...
+Nice to meet you once again, stranger.
+I see you've been filling your pockets with locusts...
+Let's strike another deal, shall we?
+Give me all your locusts and I'll tip you off towards another shortcut.
+I'm sure it'll prove useful if you manage to find it.
+
+[You decided to trade your locusts for a hot piece of info]
+Ksi shi shi shi shi shi shi...
+This is just too exciting...!
+Okay, here it comes:
+Three leeches roam, one completely out of reach... Fall behind the chest...
+That's all.
+
+Ksi shi shi shi shi shi shi...
+Do you remember how long you've been here...?
+Don't worry, you'll get used to it.
+Ksi shi shi shi shi shi shi...
+
+[The dubious merchant smirks, barely able to contain their laughter]
+["Three leaches roam, one completely out of reach... Fall behind the chest..."]
+[... Did they just swindle you?]
+#+end_quote
+** B045
+Got crystal.
+** B046
+Simple
+** B047
+Missed crystal - may need to be careful about how mouth-ghost moves.
+** B048
+Has 4-eyes statue.
+More snake parts.
+Locust in chest.
+** B049
+More snake parts.
+** B050
+Unobtainable crystal.
+Locust in chest.
+** B051
+Simple.
+
+Boulder:
+#+begin_quote
+They say the lord of this area was the one who instigated war between Void Lords...
+Lord Add didn't want to believe it...
+Yet their transgression couldn't be foreign either...
+Don't ask how I know...
+#+end_quote
+
+Strange NPC next to stairs:
+#+begin_quote
+I WAS SO CLOSE
+BUT THEN ADD THREW ME AWAY
+EUS
+I WAS SUPPOSED TO HAVE THAT NAME
+I WAS NOT GOOD ENOUGH
+CURSE THAT WORM
+GIVE MY NAME BACK
+#+end_quote
+** B052
+Quite tricky
+Need to build a
+#+begin_quote
+##
+ #
+#+end_quote
+shape beneath the ice at the far right.
+
+Boulders:
+#+begin_quote
+Curses...
+#+end_quote
+
+#+begin_quote
+I can't see anything.
+#+end_quote
+** B053
+Seemingly simmple? just ice, a boulder, a few floors, and a hole.
+
+Boulder:
+#+begin_quote
+The tail of the traitorous lord connects the brand...
+At least when they were still alive...
+Although I'm not sure how that's supposed to work...
+Don't ask how I know...
+#+end_quote
+
+This is presumably the room for the broken mural on [[*B029]]
+** B054
+A bit tricky, be careful
+On second run: glowing orb appeared?!
+Talking to it:
+Two figures in white talking
+I'll give you another hint:
+Nothing is perfect without me.
+What am I?
+*** Lillie
+Missed crystal.
+** B055
+Woman, button, pad with yin-yang?
+Pad is stairs, need to push button to open?
+Pushing woman makes her cautious and she won't talk.
+Upon dying and respawning, she's gone.
+Next run, talking to her:
+#+begin_quote
+What the...
+Who the hell are you?!
+And why are you giving away my hiding place?!
+Now those monsters will surely find us!
+Are you completely daft?!
+Oh no oh no oh no...
+
+[The well-dressed lady seems extremely distressed]
+[You do your best to explain that she isn't in immediate danger]
+Excuse me?
+I ran into a giant snake just a moment ago!
+Don't even get me started on those smaller things!
+And my dress...
+It's ruined!
+
+[You remark that her extravagant dress will only get in the way]
+There's no way I'm leaving it behind!
+Do you have any idea how much this cost?
+... Judging by your rags, you most certainly do not.
+Seriously, what ARE you wearing?
+Urgh, this is a nightmare...
+
+Look, if you can't show me a way out of this ditch...
+Do me a favour and leave me alone, you eyesore.
+I don't need any help!
+Get lost!
+And buy some new clothes while at it!
+
+[She doesn't want to talk to you anymore]
+#+end_quote
+Seemed to react to opening the exit? will have to try to escape from her room
+
+Woman is gone the next time.
+
+Boulders:
+#+begin_quote
+No no no.
+#+end_quote
+
+#+begin_quote
+Leave? No one can leave.
+#+end_quote
+
+#+begin_quote
+...
+#+end_quote
+*** Lillie
+Kinda tricky.
+Grab stairs at the start.
+** B056
+Save room with tree.
+Is it every 28 floors?
+Rested, game closed.
+Game reopened with a scene of princess as a baby?
+"That wretched daughter of mine is steering this kingdom towards ruin..."
+Princess is rejecting groom candidates and wants to run away.
+Lady Gray is her friend.
+#+begin_quote
+"For these defects, and for no other evil, we now are lost and punished just with this:"
+"We have no hope and yet we live in longing."
+ZERO Judge.
+ZERO Prosecutor.
+ZERO Defense.
+JUSTICE
+The Void Court, ZERO JUSTICE, is now in session.
+Prosecutor, please begin.
+Yes, Your Honor.
+The accursed has repeatedly succumbed to lascivious actions.
+160 times to be exact.
+Such deeds would be appalling enough in the mortal realm.
+But to exercise such vulgar behaviour in Lord Add's domain...
+The insolence of mortals knows no bounds.
+We propose the accursed should be punished accordingly.
+Hold up a minute!
+You see, this was just a...
+Umm...
+White it may look quite bad at first, actually...
+They...
+...
+Yeah, I'm not gonna even try arguing this one.
+Lock them up, sis!
+...
+Stranger.
+How do you respond to these allegations?
+<Choice between Not Guilty and Guilty, I chose Guilty>
+You are foolish indeed.
+But at least you're an honest fool.
+Continue your journey, stranger.
+Your day of absolution will come in time.
+Until then... Pray we'll never meet again
+#+end_quote
+*** Lillie
+Rest tree.
+#+begin_quote
+And that just about wraps up our viewing.
+So, what do you think?
+Sure, there are a few spots that could use a minor makeover...
+But nothing a little elbow grease won't fix!
+Besides, there's more than enough room for both you and your daughter.
+Quite frankly, this place is a steal!
+And the air of history that permeates the whole residence...
+... Truly...
+... Breathtaking.
+
+<painting falls and shatters, gust of wind blows>
+...
+Excuse me for a moment.
+Please, mull it over in the meanwhile.
+
+<phone rings>
+Hello, Gray speaking?
+Ah, sorry I couldn't answer earlier.
+The viewing just ended.
+How should I put this...
+It's even worse than the pictures made it out to be.
+Yeah, that bad.
+...
+I think I'm going to take it.
+You know I'm not exactly swimming in options.
+The bank isn't going to extend the loan any further with my background...
+No, I couldn't put you in that situation, after all you've done...
+But I appreciate the offer, I really do.
+We'll manage.
+Though it'll require some serious work.
+Still...
+This one feels right.
+No, she doesn't seem to mind one bit.
+Quite the contrary.
+Fine, I'll sleep on it, if it makes you feel any better.
+We'll see you later.
+
+Mom!
+
+And what might've happened to your shoes, young lady?
+
+I took them off!
+They're in my room!
+... Your room?
+
+Yeah, the big one!
+
+Slow down, sweetie.
+We aren't moving yet...
+
+There's a huge dead rat in the closet as well!
+
+... Oh.
+
+(... Should probably call an exterminator first...)
+#+end_quote
+*** Cif
+Woman looking at the tree:
+#+begin_quote
+Oh.
+Hello.
+Didn't see you there.
+
+(A mortal...?)
+Don't mind me, I'm just passing by.
+Umm...
+
+What is it?
+Speak up, if you've got something to say.
+
+I was just wondering if those horns are real...
+They look heavy.
+
+(Not you too!)
+
+(I don't have time for this...)
+#+end_quote
+Tree is again not operational.
+Bumped woman:
+#+begin_quote
+Sorry, am I in your way?
+
+(I don't have time for this...)
+#+end_quote
+** B057
+Large empty room with a mural:
+[[./images/mural_B057.jpg]]
+
+Now we can read inscriptions?
+#+begin_quote
+It says:
+ONLYACRAVINGREMAINS
+... Were you always able to read this?
+#+end_quote
+*** Cif
+#+begin_quote
+[The mural is filled with inscriptions]
+[It says:]
+ONLYACRAVINGREMAINS
+[...]
+[You wonder why Add would leave such a message]
+#+end_quote
+** B058
+Spooky corpse woman?
+
+Funny fish speech box thing? appeared in top right corner.
+Talked to it, it flipped around and contained an eye.
+#+begin_quote
+BEE IS ALWAYS HUNGRY
+ADD MADE THEM A SIMPLE BEING
+TOO SIMPLE
+THEY CANNOT EVEN SWIM
+WATCH HOW I SWIM
+NO NEED FOR HUNGER
+MAYBE
+ADD DID NOT WANT TO FEEL HUNGER ANYMORE
+#+end_quote
+*** Lillie
+Fish again, same dialogue
+*** Cif
+Fish again, same dialogue
+** B059
+New enemy - ox?
+4-eyes statue.
+Already opened chest - empty.
+Ox keeps charging until it hits a wall.
+Ox moves immediately - moving next to it when idle is not safe.
+Got crystal.
+** B060
+Oxen will destroy each other on collision.
+Locust in chest.
+Got crystal.
+** B061
+Already opened chest - empty.
+Got crystal.
+** B062
+Two empty chests and a suspicious boulder.
+
+Boulder:
+#+begin_quote
+Lord Add was quite fond of dried locust idols and Lord Bee often enjoyed them alongside their lord...
+Even though Lord Bee could neither taste anything nor ever feel content...
+They would always treasure those little snacking moments...
+Don't ask how I know...
+#+end_quote
+*** Lillie
+Very hard.
+A troublesome room. No real tricks, just gotta position the two oxen on the buttons.
+** B063
+Three empty chests.
+Go to the middle and then boat.
+*** Lillie
+Much easier.
+Can use wings to break the circle tiles to get space to move things around, then put button next to stairs.
+** B064
+Six empty chests.
+One normal chest with locust.
+One 4-eye statue.
+** B065
+11 empty chests.
+One normal chest with locust.
+** B066
+Four empty chests.
+Suspicious boulder.
+
+Boulder:
+#+begin_quote
+Lord Bee would regularly boast how cruel they were towards mortals...
+But now that I think about it, I never saw them hurt anyone...
+At the very least, I doubt they truly enjoyed it as much as they let on.
+Don't ask how I know...
+#+end_quote
+** B067
+Crab statue.
+
+Made the B057 mural pattern and jumped in the pit.
+Taken to B??? with a chest again.
+
+Chest:
+#+begin_quote
+You acquired a strange pair of wings.
+They feel extremely brittle.
+Who knows, maybe they'll come in handy in the long run.
+
+It's empty
+... Wait
+There's a note inside
+It's written in a language you can read
+It reads:
+In case you forgot how to use them:
+You can fly over small gaps with these.
+Just leap and believe in yourself!
+If only I had wings of my own.
+Please give me wings! -Bee
+The message makes little sense to you
+#+end_quote
+
+Boulder:
+#+begin_quote
+Those are some wings you've got there...
+Just don't try to push things while floating around...
+You'd probably regret it...
+Don't ask how I know...
+#+end_quote
+
+Went down the stairs, sent to B071.
+** B068
+Teaches ox precedence rules.
+Ox does not begin charging until you've moved for the first time.
+You can escape in stairs immediately next to oxen before they kill you.
+*** Lillie
+Got crystal
+Accidentally reset, beware!
+Need to move stairs
+** B069
+Locust in chest.
+** B070
+One empty chest.
+New enemy - mushroom?
+Actually, no!
+A scrawny man, can talk with.
+#+begin_quote
+Smell...
+Food...
+Give.
+[It seems he is looking for food]
+[Maybe you should give something to him?]
+
+[You hand over one of your locust idols]
+[The man grabs it without any hesitation, gulping it down in an instant]
+Taste...
+Nothing...
+More...
+Give more.
+
+[You hand over one of your locust idols]
+[The man grabs it without any hesitation, gulping it down in an instant]
+Taste...
+Nothing...
+More...
+Give more.
+#+end_quote
+** B071
+Crab statue.
+*** Lillie
+Very hard, no tricks.
+** B072
+Simple
+** B073
+Five empty chests.
+Died here.
+Demon appeared. Asked if it's my first time here.
+Answered "yes".
+Asked if I wish to continue.
+Said "yes".
+Offered fruit.
+Refused.
+Game closed.
+
+Cleared on second run.
+Got crystal.
+** B074
+Simple
+Locust in chest.
+** B075
+Crab statue, suspicious boulder.
+
+Boulder:
+#+begin_quote
+That smirk...
+Lord Bee was always smiling when around others...
+Makes you wonder if they kept it up even alone...
+Don't ask how I know...
+#+end_quote
+** B076
+Missed crystal.
+Got crystal later, with wings.
+Locust in chest.
+** B077
+Locust in chest.
+*** Lillie
+Got crystal
+** B078
+Unreachable crystal and chest (blocked by stairs)
+
+Wait, you can just move the stairs duh
+Got crystal.
+Locust in chest.
+** B079
+12 empty chests.
+** B080
+One empty chest.
+Unreachable crystal.
+Couldn't get chest.
+
+Got crystal with wings.
+Locust in chest.
+** B081
+Locust in chest.
+** B082
+Suspiciously easy.
+** B083
+Seven empty chests.
+Suspicious boulder.
+
+Boulder:
+#+begin_quote
+After Lord Add's departure...
+Lord Bee's prominent smile remained...
+As if nothing had happened...
+Don't ask how I know...
+#+end_quote
+** B084
+Rest tree.
+Upon re-entering, a cutscene:
+#+begin_quote
+Are we there yet?
+Don't try to fool me.
+I know you aren't really sleeping.
+Maybe I could actually get some rest if you weren't so impatient, Your Highness.
+Come on, it's freezing here!
+What kind of a nut job lives in a country like this?
+This country isn't that different from yours, Your Highness.
+In fact, a few years ago it was in an even more worrisome state.
+An especially harsh and long winter had taken a toll on people's harvest.
+Famine and disease spread among both poor and rich.
+Not even the country's king was spared.
+After the ruler passed away without an heir, the weakened country was nearly swallowed by it's warring neighbours.
+But then, a previously unknown knight rose to the occassion.
+He swiftly quelled the rising inner tensions...
+And despite being heavily outnumbered, his army easily warded off other nations aiming to seize the throne.
+Peace returned, and the knight declared sovereignty of his own.
+The country has begun to prosper once again.
+It's no wonder His Majesty seeks to ally himself with the leader of this land...
+... The one they call Knight of the Heavens.
+Please, I've heard this sales pitch before.
+Why don't you marry him since you're such a big fan.
+And that pompous nickname... I think I'm going to puke.
+Well, it certainly isn't in the same league with yours, Your Highness.
+Shut it.
+<crash>
+Your Highness, are you okay?!
+Y-yeah...
+More or less.
+What the hell was that?!
+An avalanche, perhaps...
+...
+Please stay inside, Your Highness.
+Lady Gray!
+An avalanche has blocked our way!
+We've been separated from the rest of the convoy!
+Why is the rearguard taking so long?!
+You don't have to worry about them.
+They've already been taken care of.
+Didn't put up much of a fight though.
+But to make things easier for you...
+Just hand over the crown head!
+(How does a lowly group of bandits know about the princess...?)
+And if I were to refuse?
+You haven't got much of a choice in the matter, lass.
+Don't think that pretty face of yours will save you.
+... Or maybe this courtlady knows how to handle a sword.
+That's a laugh and a bunch!
+It seems even scum like you know that no courtlady would ever carry a weapon.
+However, you're seriously mistaken if you think I'm out of options.
+Oh really now?
+And what might these options be?
+I could let you live.
+... What the-
+#+end_quote
+
+JRPG combat as the bandit vs "Grey the Destroyer"
+Used "Check", got "You've made a grave mistake"
+"I'll give you three turns."
+
+#+begin_quote
+Save your whining. Who sent you?
+Not a good time to start playing dumb.
+Unless you'd rather have another serving.
+...
+Sorry, I may be just a small-time tea leaf...
+But even I have my pride.
+Suit yourself then.
+Yeah Gray!
+Show them how it's done!
+Get back inside, Your Highness!
+And miss the finishing blow?
+No way!
+Well well well.
+My luck has finally turned...
+Get her, lads!
+Heh.
+Looks like this sorry crook got seriously one-upped.
+I was starting to worry why my guests didn't show up.
+My apologies.
+Filth such as them have yet to be completely wiped from this country.
+There's still work to be done.
+... That white hair is as pure as the tales have told.
+Allow me to introduce myself.
+I'm Johann The First, ruler of this humble country.
+Let me serve you well...
+My Demon Princess.
+#+end_quote
+
+The next time, the tree is withered.
+*** Lillie
+#+begin_quote
+In the beginning, when sky and earth were still one and the same...
+A flower bloomed, lighting up the space with stars.
+Beings who basked in their light were granted both thought and emotion.
+Among those beings were humans.
+Filled with gratitude, people began to pray to the stars.
+But the stars didn't answer them.
+Maybe they can't hear us from this far, people thought.
+With their combined efforts, the worshipers built a great tower.
+Atop of it humans were able to grow wings and fly as far as the eye can see.
+These winged messengers took flight, hoping to one day reach the stars they so admired...
+Time passed, until one day, something unexpected happened.
+A star has fallen don, people rejoiced with excitement as they gathered around it from far and wide.
+Had the stars finally heard their prayers?
+This must be an answer!
+But the fallen star didn't shine like the others.
+It's light was a completely black and cold void.
+From that light arose beings of unspeakable horror.
+Beings that preyed upon the weak minded, offering them power and eternal life...
+For them, humans were nothing but playthings, a fertile ground to sow their seeds of disorder and deceit.
+When people saw the true nature of these demons, they sealed the fallen star within the tower and buried it so deep no one would ever see its light again.
+But it was all too late.
+For demons had already found their way into man's heart.
+And so, just like people had once learned to admire the stars...
+They also learned to fear them.
+
+... Mom?
+Yes dear?
+Could you read me a different story before bedtime for once?
+I've heard this one so many times already!
+
+Most have already forgotten this story completely.
+It's very important that you remember it.
+
+But why?
+Demons aren't real...
+Right?
+
+...
+Of course not.
+And even if they were real...
+I would protect you from them.
+So you've got nothing to fear.
+
+... I'd still like to hear Sleeping Beauty instead...
+
+... How about I read it to you next time?
+
+Promise?
+
+Promise.
+Now, time to say good night.
+
+Good night, mom.
+
+I love you.
+#+end_quote
+*** Cif
+Same woman again.
+#+begin_quote
+Ah, it's you again.
+Big horn lady!
+
+(Uuuuurrrghhh...)
+
+Last time you left in such a hurry, that I didn't have time to ask...
+But do you know what this place is?
+
+...
+A nightmare.
+I'm sure you'll wake up soon enough.
+(Better leave it at that.)
+
+A dream, huh...
+Are we having the same dream then?
+
+... ... ...
+(What a strange individual...)
+#+end_quote
+** B085
+Mural, but it's damaged
+[[./images/mural_B085.jpg]]
+"A faint, strange glow beams through the cracks.
+[[./images/mural_B085_glow.jpg]]
+
+Can read inscription now: ALODIME
+** B086
+Many boulders.
+Simple.
+Went in with many locusts, Mon appeared as expected.
+#+begin_quote
+Ksi shi shi shi shi shi shi...
+Stranger, stranger...
+Are those locusts in your pocket or are you just happy to see me?
+How about a trade?
+As you might've noticed, traveling through these halls can get rather tiresome.
+There are, however, shortcuts that few know about...
+If you hand over all your locusts, I'll give you a hint on how to find one of them!
+We wouldn't want that noggin of yours to go completely dull.
+So, how about it, stranger?
+
+[You decided to trade your locusts for a hot piece of info]
+Ksi shi shi shi shi shi shi...
+This is just too exciting...!
+Okay, here it comes:
+A suspicious empty chest surrounded by nothing, inspect it one too many times...
+That's all.
+
+Don't go wasting your precious locusts on those smirking statues, you hear me?
+Such a useless waste of space, just like their model...
+Ksi shi shi shi shi shi shi...
+
+[The dubious merchant smirks, barely able to contain their laughter]
+[...]
+["A suspicious empty chest surrounded by nothing, inspect it one too many times..."]
+[... Did they just swindle you?]
+#+end_quote
+** B087
+4-eyes statue
+
+Boulder:
+#+begin_quote
+Here lies the domain of the second traitorous Void Lord...
+The calculating charlatan, forever blinded by their own covetousness...
+Shall their name never grace these halls again...
+Don't ask how I know...
+#+end_quote
+*** Lillie
+Need to be careful not to accidentally reset.
+** B088
+Locust in chest.
+
+Boulder:
+#+begin_quote
+The covetous lord often followed the traitorous lord around...
+They were enamored by their scales...
+Maybe this vacuous reason was enough for them to side with the traitorous lord...
+Don't ask how I know...
+#+end_quote
+** B089
+Simple.
+
+Filled in the pattern from [[*B085]] mural, sides appeared, jumped down.
+Took to another strange organic B???.
+Contained: a memory crystal, stairs, a glowing wall, and a hard-to-reach boulder.
+
+Boulder:
+#+begin_quote
+There used to be a seal here...
+One day it simply disappeared...
+Strange...
+Don't ask how I know...
+#+end_quote
+
+Tablet:
+[[./images/B089_below_tablet.jpg]]
+#+begin_quote
+[A crudely written message glow through the niche]
+[It reads:]
+["MON WAS HERE"]
+[..]
+#+end_quote
+
+Went down the stairs, took me to B111.
+*** Cif
+Seems to be the same.
+** B090
+Crab statue.
+** B091
+Missed chest.
+** B092
+One empty chest.
+Woman, fled.
+** B093
+Woman, fled.
+** B094
+Crab statue.
+One empty chest.
+Missed chest.
+Woman, fled.
+** B095
+Crab statue.
+Three empty chests.
+** B096
+One empty chest.
+Woman:
+#+begin_quote
+[A woman stands in front of a chest, blocking your way]
+[She's muttering to herself]
+Still nothing...
+Oh, didn't notice you there.
+Quite unexpected to bump into someone else down here.
+Are you a treasure hunter as well?
+... Wait.
+That staff doesn't look like something one would normally carry around.
+I bet you found it down here, didn't you?
+Would you mind if I took a better look at it?
+Don't worry, I'm an expert at handling goods like this.
+
+[As you start answering, the woman suddenly snatches your staff!]
+#+end_quote
+Chase sequence begins!
+** B097
+Chasing woman.
+** B098
+Chasing woman.
+** B099
+Chasing woman.
+** B100
+Chasing woman.
+** B101
+Chasing woman.
+** B102
+Chasing woman.
+** B103
+Chasing woman.
+** B104
+Chasing woman.
+** B105
+Chasing woman.
+** B106
+Chasing woman.
+Died.
+Ate the fruit to continue.
+** B107
+Chasing woman.
+4-eyes statue.
+Difficult - need to go up top to bait the mouth-ghost.
+** B108
+Chasing woman.
+** B109
+Chasing woman.
+** B110
+Music change.
+Caught woman.
+#+begin_quote
+Drat, why doesn't this thing work?
+... Oh, you again.
+Please forgive me!
+I know I shouldn't have done that but I had no choice.
+My old man is very sick and the medicine he needs costs a small fortune and...
+Can't you just find it in your heart to forgive me?
+[...]
+...
+[...]
+...
+... Something tells me you aren't buying that.
+Fine.
+I know when I'm at the end of my rope.
+Here, you can have this back.
+I couldn't get it to work, so it's probably worthless anyway.
+[You got your staff back]
+[It seems to be intact]
+[Try to not lose it again!]
+
+... What?
+I returned the staff already, stop looking at me like that.
+Here, just to show I've no ill will towards you...
+You can have these as well.
+I don't see much use for them but maybe you'll appreciate the gesture.
+[You received seven locust idols]
+[L U C K Y !]
+
+This place is absolutely massive.
+I've never seen ruins like this...
+But I'm sure if I venture deep enough, I'll be able to unearth some spectacular loot.
+Finders keepers as they say.
+... And no, I'm not stealing from you again.
+Just mind your own business and so will I.
+
+What's that?
+I'm blocking your way?
+Let me just catch my breath for a moment.
+[The cheeky woman refuses to move]
+[But there seems to be no way around her]
+#+end_quote
+Pushed her in the pit.
+** B111
+New enemy - hand.
+** B112
+Rest tree - cutscene when returning.
+#+begin_quote
+Taking down those goons in one fell swoop...
+That was so awesome!
+And then he gave that bandit that look just before frying his sorry ass...
+Is he really a king?
+He is way too cool for that!
+Please, try to calm down a bit, Your Highness.
+This has been a long day for you.
+I'm know, but I'm too excited to sleep...
+Hey, do you think I'll be able to meet Johann tomorrow?
+Maybe he'll show me how to do that lightning spell!
+Such magic shouldn't be used lightly, Your Highness.
+Killjoy Gray strikes again...
+Are you perhaps a bit envious?
+Enjoying the snowfall?
+Our winter has its upsides, don't you think?
+Your Lordship!
+Forgive me, I almost didn't recognize you without the armor.
+Allow me to thank you once more for saving Her Highness, Your Lordship.
+It was the least I could do.
+I hope Her Highness is feeling better?
+She fell asleep, finally.
+She must've been exhausted after all that.
+But no need to worry, Your Lordship.
+She isn't the kind to get easily startled.
+Although Your Lordship did leave quite an impression on her.
+Please, just call me Johann.
+I'm not really a man of lofty titles.
+... I'd heard you were rather down-to-earth.
+Although I didn't expect you to still rush into battle all by yourself.
+A good ruler does anything in their power to right the wrong.
+That's simply their responsibility.
+Alas, not all rulers abide by such ideals.
+Many horrible things have happened to this country and its people by the result of simple negligence.
+I wish not to repeat that mistake.
+Even if it means getting my hands dirty from time to time.
+Speaking of which, things may not have turned out so well today without your contribution, Lady Gray.
+As I understand, you held off those bandits for quite some time all by yourself.
+I was simply doing my part as the lady-in-waiting.
+And then some, I'd argue.
+Do not belittle yourself.
+I can tell you're not an ordinary courtlady, Lady Grey.
+Or should I say "Gray the Destroyer"?
+...
+So you too have heard of it.
+I've done by best to leave that nickname behind me, along with my past deeds.
+But as long as I can serve Her Highness to the best of my abilities...
+That's all that matters.
+I admire your devotion towards Her Highness.
+Still, I can't help but wojnder...
+A fighter of your capability could've dispatched that paltry band of thieves in an instant.
+Yet you took your time, almost as if you were simply toying with them.
+When you were fighting those crooks...
+Did you, at any moment, enjoy it?
+...!
+...
+That's tactless of me...
+Pay my frivolous musings no mind.
+Starting tomorrow, I'd like to get to know this Demon Princess of yours a little better.
+... With your assistance, if you're willing.
+Of course.
+I'm sure Her Highness would be delighted as well.
+I'll be looking forward to it, then.
+Have a good night, Lady Gray.
+#+end_quote
+*** Lillie
+#+begin_quote
+Lillie!
+Aren't you done yet?
+
+No peeking!
+
+Are you sure you don't need any help?
+
+I can handle this!
+
+Try to hurry up then.
+
+Your ride should arrive any minute now.
+
+Okay!
+
+<kid dressed as demon enters>
+...
+
+...!
+
+Got any candy?
+
+Seriously, have some manners.
+Hi.
+Sorry about that.
+
+It's fine, don't mention it.
+I hope your travel went well.
+
+Business as usual.
+I miss the weather already...
+Oh, while I remember...
+Souvenirs.
+Bonjour and all that good stuff.
+
+Wait...
+Are these Pr***D****s?!
+
+The one and only, straight from the factory.
+Visit the shop if you need some adjustments.
+
+These must've cost a small fortune...
+How much do I owe you?
+
+No point in that.
+
+... Thank you, truly.
+Office work is killing my back...
+
+Hi Sonia!
+Hi Auntie Freya!
+
+Ooh, what a cute outfit.
+
+Mom made this for me!
+
+She's been enamored by this one show lately...
+She insisted I'd make a dress similar to that of the main character.
+
+Man, you're making me envious.
+You should come work for us.
+
+My custume was bought from a supermarket...
+
+Quiet you.
+
+The shoemaker's children go barefoot.
+
+Anyway, you rascals should hurry up.
+Your ride is waiting.
+
+Oh, you aren't taking them?
+
+Naw, I put Kalle on the job.
+So how about a cup of coffee while we wait here for these two to finish off their sugar rush tour?
+
+Of course.
+
+And that was by far the second largest waffle I've ever had.
+
+Sounds like such a fun place...
+I wish I could visit one day...
+
+You should totally tag along next year.
+We could even bring the girls with us.
+
+Would you be okay with that?
+
+Sure.
+They're old enough already.
+
+... Yeah.
+Time sure does fly...
+
+...
+I don't like to butt in.
+But Sonia told me that Lillie got into another fight at school.
+I was just wondering how you are doing.
+
+...
+You know how headstrong Lillie can be.
+I'd like to believe it's just a phase.
+But at times I wonder if I could've done something differently.
+Of if I was meant to become a mother at all.
+
+...
+... Gray.
+You're the best parent anyone could hope for.
+I'm sure Lillie thinks the same way.
+If only you could see it yourself.
+
+...
+
+I'll take it that you haven't told Lillie yet?
+
+... No.
+I'm not even sure I could.
+
+I figured you'd rather not talk about it...
+But you need to learn to let go of your past demons, whatever they might be.
+Lillie isn't stupid either.
+She can sense your anxiety.
+Maybe that's why she's keeps acting so...
+... Look, all I'm saying is you need to relax and stop being so harsh on yourself.
+When's the last time you've been out?
+
+... I really don't think a woman of my age should worry about something like that...
+
+Nonsense.
+
+I bet you could catch anyone with those wicked charms of yours.
+Or did you think I bought those Pr***D****s just to make your back feel better?
+
+... ... ...
+... Shut up, you...
+
+Oh, speaking of which, I should totally hook you up with this one guy I know.
+He's divorced and got some children already.
+Steady career and all, it's a no-brainer.
+
+I don't know...
+
+Come on.
+Live a little.
+
+...
+Fine.
+Just this once.
+
+... Did I just convince Gray the Immovable to go on a date?
+What a time to be alive.
+
+Watch it, or I might just change my mind...
+
+We're home!
+
+Well, did you get any candy?
+
+Lots!
+
+... You know you can't eat all that at once, right?
+
+Okay...
+
+I almost forgot!
+
+I'll have to take a picture of you two.
+
+Say cheese!
+#+end_quote
+*** Cif
+Same woman again.
+#+begin_quote
+Long time no see!
+
+(Still hanging there...)
+
+I don't remember having a dream this lengthy before.
+
+Time does move differently here.
+You'll get used to it.
+
+I see...
+...
+
+What?
+
+How do you sleep with those horns?
+
+(How do YOU sleep with that attention span?!)
+(I've got an uneasy feeling I'll be seeing you later...)
+#+end_quote
+** B113
+Mural
+[[./images/mural_B113.jpg]]
+Inscription: ONLYGNAWINGRAGEREMAINS
+** B114
+Huge screaming woman.
+** B115
+Many hands - hands are immobile and cannot be walked into.
+Horned statue.
+Missed chest.
+
+Boulder:
+#+begin_quote
+Here lies the domain of Lord Tan, The Raging.
+So fierce was their nature, other Void Lords preferred not to interact with them...
+Alas, Lord Tan would remain on their own most of the time...
+Don't ask how I know...
+#+end_quote
+** B116
+Horned statue.
+Locust in chest.
+** B117
+A bit tricky - need to make a bridge to the right wall to punch once to get the right turn cycle.
+*** Lillie
+Got crystal
+** B118
+Unreachable chest (behind four horned statues)
+Got chest with wings (contains locust).
+Boulder:
+#+begin_quote
+Although shunned, Lord Tan didn't mind being alone...
+In fact, they preferred it...
+Lord Tan didn't get along with others...
+Don't ask how I know...
+#+end_quote
+** B119
+Crab statue and horned statue.
+Pushing crab statue into hand also destroyed horned statue?
+** B120
+4-eyes statue.
+Horned statues appear to be destroyed when all enemies are destroyed.
+Or maybe just all hands?
+
+Boulders:
+#+begin_quote
+What's happening to me?
+#+end_quote
+#+begin_quote
+Truth.
+#+end_quote
+** B121
+Need to push boulders off of ice and immediately place block to form boat.
+
+Boulders:
+#+begin_quote
+Truth.
+#+end_quote
+#+begin_quote
+Death...
+#+end_quote
+** B122
+4-eyes statue.
+Locust in chest.
+*** Lillie
+Careful about accidental reset.
+** B123
+Horned statues do require all *enemies* dead, not just hands.
+Locust in chest.
+
+Boulder:
+#+begin_quote
+During the battle, Lord Tan was unstoppable...
+Even when the battle subsided, their rage wouldn't end...
+Thus Lord Add had no other option, but to strike their ally down...
+Don't ask how I know...
+#+end_quote
+*** Lillie
+Got crystal.
+** B124
+Difficult. Be careful.
+Staff immediately to kill ghost facing you, then kill ghost at top.
+** B125
+Crab statue.
+** B126
+Simple.
+** B127
+Unreachable chest.
+Got it with wings, locust in chest.
+** B128
+4-eyes statue.
+** B129
+Crab statue.
+Must kill grub by colliding it with snake?
+Remember you can move the button!
+** B130
+Simple.
+** B131
+Fairly simple.
+Got crystal.
+** B132
+Simple.
+** B133
+Unreachable chest.
+Got chest with wings, locust.
+*** Lillie
+Got crystal.
+** B134
+Simple.
+Crab statue.
+** B135
+Missed chest.
+*** Lillie
+Got crystal.
+** B136
+Looks scary but is easy.
+** B137
+Simple room, forms a pattern.
+#+begin_quote
+##..##
+##..##
+######
+..s#..
+.####.
+..##..
+#+end_quote
+
+Changed the pattern to the [[*B113]] mural.
+Jumped down, took me to a B??? with many hands and horn statues along with a big horned monster.
+Interacting with the monster gave me the sword and triggered a boss fight???
+#+begin_quote
+[You acquired a strange sword]
+[Its ornate design makes it rather cumbersome to use]
+[Who knows, maybe it'll come in handy in the long run]
+#+end_quote
+You need to hit the monster in the face just before it attacks, and bridge out to get in range.
+*** Cif
+No chest or monster.
+Killed all the hands, went down stairs.
+** B138
+Up
+Staff
+Down
+Left
+Staff
+Left
+Left
+Up
+Staff
+Left
+Staff
+Left
+Left
+Down
+Staff
+Up
+Left
+Staff
+Left
+Up
+Up
+Staff
+Left
+Left
+Up
+Up
+Staff
+Up
+Right
+Right
+Right
+Staff
+Down
+Right
+Right
+Right
+Right
+Staff
+Right
+Right
+Right
+Right
+** B139
+Two empty chests.
+Crab statue
+Woman
+#+begin_quote
+[A young girl sits on the floor]
+[As your eyes meet, she winces]
+What are you looking at?
+
+Are you one of those creeps?
+[You tell her you're not going to hurt her]
+I...
+I'm not afraid of you.
+Leave me alone.
+
+[The girl pouts, ignoring you]
+...
+[... She sneakily gazes up to you but averts her eyes soon after]
+
+[You try to comfort her]
+Who do you think you are, my mom?
+Leave me alone already...
+
+...
+
+I said leave me alone!
+<pushes you down the pit, disappears>
+#+end_quote
+Lure oxen to collision in corner: bait right ox first, dodge it between chests, and then run back to bait the left ox.
+*** Lillie
+Woman:
+#+begin_quote
+...
+What are you looking at?
+
+A child?
+How did you end up in here?
+
+... That's none of your business.
+Leave me alone.
+
+Didn't you hear me?
+Or are you one of those creeps?
+
+A creep?!
+Do I look like one?
+Didn't your parents teach you any manners?
+
+Bite me.
+
+(So that's the attitude you're going with...)
+(Now now, count to ten and remain calm.)
+(We can figure this out.)
+
+<tried waiting 10 seconds>
+I think we got off on the wrong foot there.
+My name is Lillie.
+What's yours?
+
+... I won't speak to adults.
+
+That's where you make a critical mistake.
+Don't mix me up with any old fart.
+Can't you see I'm quite spry for my age.
+And fashionable to boot!
+
+... An old hag who dresses like that...
+Disgusting.
+
+...
+(Ten.)
+
+<tried waiting 10 seconds again>
+Look, I don't know what's up with you, you little brat...
+But I'll need your help if we're going to get out of here.
+Alive.
+
+I'm not moving anywhere.
+I'm done with running.
+
+...
+I can tell you're scared.
+That's okay.
+Frankly, even I'm not sure what's going on with this place.
+Yet simply lying here won't get you anywhere.
+So please, help me.
+We can make this, together.
+
+...
+Do you think I'm five or something?
+Get out of here with that sappy bullshit.
+
+...
+(That's it.)
+(I'm done.)
+
+[The girl completely ignores you]
+[...]
+[When push comes to shove...]
+[This isn't real]
+#+end_quote
+Had to kill her.
+** B140
+Rest tree.
+#+begin_quote
+Well, how about this one?
+Isn't that your usual dress, Your Highness?
+Just say if it looks good one me!
+They all look great on you.
+As they always do.
+Very helpful.
+I'm sweating through my ass over here you know...
+Hey, do you think I smell?
+I thought princesses didn't smell?
+Stop smiling, you wisecrack.
+It's a bit unusual to see you like this, that's all.
+Is it because of Lord Johann?
+...
+... I just want to look my best when he arrives.
+We don't know when he'll come to visit us though, Your Highness.
+That's exactly why I need to be ready!
+It could even take a few weeks.
+Ugh...
+Didn't you receive another letter from him just recently, Your Highness?
+Yes, but I still haven't finished my reply!
+Come to think of it, you've been acting somewhat strange ever since.
+And what if I have?
+Obviously it's neither my duty nor place to judge, Your Highness.
+But don't you think you might be advancing a tad hastily?
+... I see.
+Would you prefer if I'd broken a few ribs first?
+You know what I mean, Your Highness.
+You worry too much, Gray.
+Perhaps.
+But we're approaching uncharted territories and I'd rather be safe than sorry.
+What's that supposed to mean...?
+Love, Your Highness.
+Sh-shut it you hag!
+Your Highness!
+It's Lord Johann!
+He has arrived unannounced!
+He is waiting downstairs!
+#+end_quote
+
+Examining the letter on the bed:
+#+begin_quote
+[It's an unfinished letter]
+[You probably shouldn't read it...?]
+
+[You definitely shouldn't read it]
+
+[I really, REALLY shouldn't read it.]
+...
+...
+Dear Lord Johann
+I feel my heart racing restlessly as I write this letter.
+And as I grasp for words, my mind follows suit not far behind.
+It is all because of you.
+Again and again I return to the moments we spent together.
+But those simple memories will not cease this ache.
+I hold you responsible.
+Therefore I've decided not to share my answer until I can see you again.
+[The letter ends abruptly]
+#+end_quote
+
+Talking to guard in the hallway:
+#+begin_quote
+I'm so glad to see Her Highness is in such high spirits.
+Thanks to Lord Johann!
+My back is glad as well!
+
+Aren't you going to join them downstairs, Lady Gray?
+#+end_quote
+
+Talking to next guard:
+#+begin_quote
+The Knight of Heavens has arrived.
+I wonder if he's as handsome as they say.
+Maybe I'll get a chance to see him today...
+... Once I get off duty, of course!
+
+Please join them downstairs, Lady Gray.
+#+end_quote
+
+Talking to freaking out guy:
+#+begin_quote
+Lady Gray!
+Her Highness and Lord Johann seem to be in the middle of something...
+So I decided not to butt in.
+But I'm sure you'll be fine!
+
+What are they talking about?
+Could it be...!
+#+end_quote
+
+#+begin_quote
+Ah, Lady Gray, pleasure to see you.
+Likewise, Lord Johann.
+It has been a while.
+Forgive us for arriving unannounced.
+Don't mention it.
+Hehee...
+Someone doesn't seem to mind at all.
+Johann and I have an important announcement to make!
+#+end_quote
+*** Lillie
+#+begin_quote
+...
+This feels like overkill...
+
+You really haven't worn makeup in ages, have you?
+All we're doing is a small touch-up.
+
+... And this dress?
+Just a small touch-up as well?
+
+Your closet was a crime against humanity.
+We just brought it back to the current century.
+
+... The only thing I'll be catching in this is a cold.
+
+Enough talk!
+Let's have a look.
+
+...
+
+What do you think?
+
+M A R V E L O U S!
+What's your verdict, your highness?
+
+... ...
+Go get them!
+
+When did you learn such langujage?
+
+D A T E S T A R T!
+
+... Am I at the right table?
+...!
+Well...
+Even if it was the wrong one, I certainly wouldn't mind.
+... ... ...
+
+(Wanna get your ass handed to you or what?!)
+
+Sorry, couldn't resist.
+One-liners like that aren't really my thing.
+You must be Gray, right?
+Pleased to finally meet you.
+
+Likewise, Daniel...
+Just Dan will do.
+Would you like to have anything to drink?
+
+J-just water, thank you.
+
+You sure?
+
+(Am I that nervous...?)
+It's fine, really!
+
+...
+
+...
+(Crap, this got awkward quick...)
+(What did Freya say again...?)
+
+What to talk about during the first date?
+Don't worry about it!
+Dan is a really laid-back guy.
+Just be yourself and I'm sure you two will hit it off in no time!
+
+(... Thanks for nothing.)
+(Quick, think of something to say!)
+
+<Choice between [Talk about weather] and [Talk about Dan's work], chose weather.>
+
+Actually, maybe I should have tea instead.
+It's gtting pretty cold out there after all.
+I really don't mind the snow but I'd rather not...
+... Freeze to...
+Death.
+
+...
+You're really grasping at straws there.
+
+...!
+Freya said you don't go out too much.
+But although she's told me quite a lot about you...
+You're nothing like I imagined.
+
+Quite a lot?!
+(Freya, your ass is grass.)
+
+... I feel like I'm wasting your time...
+
+Not at all.
+The night is still young.
+Why don't you tell me something about yourself?
+I heard you work at the university.
+I'd love to hear more about it.
+
+I doubt you'd find it very interesting...
+
+You're talking to an accountant-for-hire.
+Try me.
+
+At least I warned you...
+I work at the linguistics department that specializes in dead and extinct languages.
+
+Oh, so you're a teacher?
+
+Nothing like that I'm afraid.
+More of an assistant.
+Most of the time I help with preservation and translation of old manuscripts.
+
+Sound pretty highbrow to me.
+
+Well, it pays the bills.
+(Barely.)
+
+How does one end up studying something like that?
+
+I-I just read a lot when I was younger, that's all.
+(That's a fat lie.)
+It's the only thing I'm any good at now.
+Still...
+Reading those old texts and seeing how far we've come has made me realize...
+The people of this world have already forgotten so much, you can't imagine.
+Entire nations have disappeared without a trace...
+Along with the countless dreams and memories of those who lived.
+I'm just trying to understand it all, so we don't repeat whatever mistakes they made.
+
+...
+
+I'm sorry!
+I went way overboard there.
+
+No no, don't be. 
+I was just taken aback.
+It's strange, but for a moment I thought I saw something different about you...
+
+...?
+
+Never mind.
+Just running my mouth.
+
+Would you mind me asking something?
+
+Go for it.
+
+<Choice between asking about his children and the future. Chose future>
+
+What do you want from the future?
+
+Hmmm...
+Things have settled down quite a bit during the last couple of years.
+But looking back now I think I might've been too focused on my work.
+I'm looking for more excitement in my life.
+Like traveling the world and meeting new people...
+Hopefully I'll be able to meet someone who wants to join the ride before I get too old.
+Have you traveled by any chance?
+
+Not that I remember...
+
+Hmm?
+
+Err, I mean, not really.
+But lately I've had thoughts of going somewhere far away.
+
+Anything particular in mind?
+
+No, I...
+I think it's something more akin to leaving everything behind.
+I honestly feel guilty about it.
+This must sound pretty silly, right?
+
+If I had to bet, I'd guess we've all had thoughts like that at some point.
+Nothing wrong with that if you ask me.
+
+You don't think I'm a terrible parent for saying something like that out loud?
+
+You're still here, aren't you?
+Besides, I've had it easy compared to you.
+
+... So Freya told you about that as well.
+
+...
+Sorry, I let it slip.
+Freya did mention your daughter, but...
+I'll take it her father isn't around much?
+
+... ... ...
+
+... That bad, huh.
+Sorry, I really shouldn't have brought it up.
+
+No.
+I should be the one apologizing.
+My daughter...
+Lillie.
+I haven't told her anything about her father.
+Even if it's not the right thing to do...
+I swore to take care of her.
+No matter what.
+
+...
+You really do love your daughter, don't you?
+
+<Choice between ... and ..., chose the first>
+<Screen goes black, next text auto-plays>
+What am I doing
+Why am I here
+Lily
+#+end_quote
+*** Cif
+No woman this time.
+** B141
+Got crystal.
+Mural
+[[./images/mural_B141.jpg]]
+Inscription (incomplete):
+NLYOFE
+
+I came back here after beating the boss, and the mural was different!
+[[./images/mural_B141_alt.jpg]]
+
+The complete pattern:
+#+begin_quote
+..##..
+..##..
+#..#..
+##...#
+####..
+####..
+#+end_quote
+** B142
+4-eyes statue
+Hand
+Many boulders
+Very easy room, maybe something here?
+*** Lillie
+Got crystal.
+** B143
+Giant demon head
+Scrawny man 1:
+#+begin_quote
+[A scrawny man stands before you]
+Smell...
+Food...
+Give.
+[It seems he is looking for food]
+[Maybe you should give something to him?]
+#+end_quote
+Appears to be the same dialogue as last time.
+Going to test giving many locusts, because on my first time here I am voided.
+Gave 10 locusts with no change in "give me more" dialogue.
+Becomes uninterested after giving all locusts.
+Other scrawny man appears to have the same dialogue.
+He is looking at a crab statue?
+The crab statues must mean something.
+Talking to giant head:
+#+begin_quote
+[A giant head lies before you, blocking your path]
+#+end_quote
+Dialogue seems to repeat.
+After punching:
+#+begin_quote
+[They can hardly muster an irritated groan]
+
+Hngghh...
+What do you want?
+
+[You tell them they need to move]
+... Really?
+That's why you disturb me?
+I was doing so well with being dead.
+How bothersome.
+
+I don't really know what you're looking for.
+But maybe you can tell I'm not exactly going to move anytime soon.
+Let me die.
+
+[You ask them if they know another way down]
+Eeeeeee...?
+Didn't you listen to anything of what I just said?
+...
+Fine.
+If it means I can then keep dying in peace...
+There should be a smirking statue in here somewhre...
+If you leap into a hole directly in front of it...
+You should be able to advance deeper.
+... Almost forgot.
+This trick requires a sacrifice.
+Nothing major, as long as you've got some food with you, you should be good to go.
+
+You don't have any food with you?
+Fine...
+Here, have some.
+[You received a locust idol]
+[... Where do they keep these things?]
+
+...
+
+...
+
+...
+
+Is the route clear already?
+
+All there's left to do for you...
+... Is to find that smirking statue and take a leap.
+Then I can continue dying...
+
+...
+#+end_quote
+
+After punching when we have sword:
+#+begin_quote
+Hngghh...
+What do you want?
+Hold on...!
+That sword you carry...
+Could it be...?
+Yes, there's no mistaking it.
+...
+I know this is very sudden.
+But could you...
+How should I put this...
+Take that sword and...
+Kill me...
+... Pretty please?
+What?
+You don't want to kill me?
+...
+Sorry, I should've known you mortals take death pretty seriously.
+I'm just tired of being alive.
+Even more so after my body was taken away.
+And since this place is barely functioning anymore...
+I've no purpose here.
+Besides, I'm blocking your way right?
+So it would be better for you as well...
+Since there's no other exit from this floor...
+So, how about it?
+
+[You decide to grant their wish]
+R-really?
+Is this really happening...
+What a relief...
+...
+Alright.
+Just thrust that sword into me...
+It shouldn't require much power.
+Wait.
+This might be a stupid question...
+But have you died before?
+What is it like to die?
+I heard you mortals believe in reincarnation or something.
+Will that happen to me as well?
+Because that sounds super bothersome.
+
+[You tell them you'd rther not think about such things]
+I see...
+Well, in that case I've only got one more thing.
+If you see my sister...
+Tell them that Gor said hi.
+They're missing their left eye, I'm sure you'll recognize them if you two happen to meet.
+And...
+Thank you, stranger.
+See ya.
+<dies>
+#+end_quote
+
+Boulder behind Gor:
+#+begin_quote
+So the big head finally got their wish...
+...
+You did what you had to do...
+Don't ask how I know...
+#+end_quote
+*** Lillie
+#+begin_quote
+(A giant head...)
+(Are you serious?)
+
+<after bumping>
+Hngghh...
+What do you want?
+
+(It talks.)
+(Of course it talks.)
+
+...!
+
+Why are you staring at me like that?
+
+That sword...
+Where did you find it?
+
+Oh, this?
+... I just stumbled upon it.
+
+...
+So there's this ornate sword that's clearly very special...
+
+Yeah.
+
+... That you just happened to stumble upon.
+
+Yep.
+
+... Without any hints whatsoever.
+
+Sure.
+
+... ... ...
+Can you kill me with it?
+
+...
+What?!
+Are you nuts?!
+
+Oh, sorry...
+Forgot my manners.
+Kill me, pretty please.
+
+... I'm not going to kill anyone.
+
+Don't make me laugh.
+You've made it this far...
+Why stop now?
+
+What are you talking about?
+
+... ... ...
+Oh the innocence of youth.
+
+Come on, help me out here.
+You want to get to that exit, right?
+One quick stab can't hurt.
+
+...
+Why do you want to die so badly?
+
+My current existence is simply out of spite.
+You'd do us both a favour.
+So how about it?
+
+Okay...
+I'll do it.
+
+Yay!
+What a relief.
+
+Don't say that...
+
+... Sorry.
+You mortals take death pretty seriously.
+
+...
+
+One more thing.
+If you see my sister, Tan...
+Tell them that Gor said hi.
+They're missing their left eye. I'm sure you'll recognize them if you two happen to meet.
+That's all.
+See ya, stranger!
+#+end_quote
+*** Cif
+Gor is gone!
+** B144
+New enemy: mimic.
+Mimics your movements, but mirrored.
+Locust in chest.
+
+Boulder (I think it's this floor? double check):
+#+begin_quote
+Here lies the domain of the third traitorous Void Lord...
+Whose feeble apathy is second only to their indecisiveness...
+Shall their name never grace these halls again...
+Don't ask how I know...
+#+end_quote
+** B145
+Two crab statues.
+Let's try jumping down!
+It worked!
+We arrived in B146!
+I don't know if this got us anything over using the stairs, but it's cool to know that it works.
+** B146
+New enemy: black shade?
+Seems to also mirror movements, but on both axes.
+Two empty chests.
+** B147
+Trick is to move the stairs.
+** B148
+Strange room - split in half for Gray and mimic.
+Single suspicious boulder on Gray's side
+Boulder:
+#+begin_quote
+The feeble lord never showed any interest towards the happennings of Void...
+They would simply fulfill their role without any enthusiasm...
+Just so other lords wouldn't bother them...
+Don't ask how I know...
+#+end_quote
+** B149
+More split room.
+*** Lillie
+Got crystal
+** B150
+Crab statue on mimic side.
+Enemies do not pursue mimic.
+Can desynchronize positions by pushing things.
+Can resynchronize by punching wall.
+*** Lillie
+Got crystal
+** B151
+Mimic will destroy other mobs like normal (if they're going to move to the same tile.
+Locust in chest.
+Got crystal.
+** B152
+This one is hard
+The trick is to grab the (nearer) ice protruding near the starting point, and use it to bridge the other side.
+Also, grab a block by doubling back where it's safe in the middle to re-build that bridge.
+Be really careful, it's not too complex but any wrong move is a reset.
+Watch the clone carefully.
+*** Lillie
+Grab button, use it to bridge gap on far side. Place stairs symmetrically from it.
+** B153
+Fairly easy, introducing the mechanic of "killing the clone intentionally", I guess?
+Got crystal.
+** B154
+Easy, head to your corner and boat away.
+** B155
+Easy, grab the tile you're facing when you spawn, go to the bottom tile, re-place the ice on the way back up.
+The trick: removing an unneeded tile early and using it to replace a tile that you've already stood on to kill clones.
+*** Lillie
+Got crystal
+** B156
+Easy, use clone to push boulder down to button.
+Got crystal.
+** B157
+Very easy - is there some trick here?
+Clone seemingly did nothing interesting.
+Seems like a pattern room (for [[*B141]]?)
+Worked! Jumped down.
+We know we can use ice as part of the floor pattern now, will be useful for Eus's domain.
+
+Took me to a B??? with a boulder, a crystal, stairs, a strange statue, and a weird floor tile.
+Boulder:
+#+begin_quote
+The brane value is volatile...
+But as long you only manipulate the last two digits...
+It should work...
+You do know how to do that, don't you...?
+#+end_quote
+Statue says: "How bothersome."
+The strange tile: "A broken seal"
+*** Lillie
+Tried the pattern again.
+Same room.
+Didn't check for changes.
+Taken to [[*B162]]
+** B158
+4-eyes statue.
+Somewhat tricky - need to use the horned statue on the switch and move the stairs
+** B159
+Locust in chest.
+Boulder destroys mimic, like other enemies.
+Boulder:
+#+begin_quote
+At the decisive moment, when Void Lords had to choose their side in the great clash...
+The feeble lord remained indecisive...
+But one either stands with Lord Add or...
+Don't ask how I know...
+#+end_quote
+** B160
+Two chests!?
+Place a hole to block a snake on our side, use the snake on the other side to kill the mimic.
+Both chests contain locusts.
+** B161
+This looks like we need to start understanding what each mimic does precisely.
+White mimic: mirrored horizontally 
+Grey mimic: mirrored vertically
+Black mimic: mirrored both axes
+** B162
+Not too bad, need to move stairs and button to mirrored spots.
+*** Lillie
+Easy here too, just never step on the sigils and it comes naturally.
+** B163
+Strange room. Very easy. Probably something here.
+*** Lillie
+Can talk to the clone.
+It has the appearance of child Lillie.
+#+begin_quote
+How cute is that!
+#+end_quote
+** B164
+Hard.
+Up
+Up
+Up
+Right
+Down
+Staff
+Up
+Staff
+Up
+Left
+Left
+** B165
+Easy, make white mimic push statue up.
+The statue will fall off, but the white mimic does the job :)
+** B166
+Locust in chest.
+Go down and punch the wall a few times to make sure the horned statue stays alive.
+** B167
+Trick puzzle?
+Talk to mimic.
+#+begin_quote
+Seems like you figured it out.
+You're stuck.
+There's no way around this.
+This is impossible.
+... Is what I'd like to say.
+Like that would be enough to stop you.
+Trust me, I should know.
+
+You probably prepared yourself for this already...
+Things won't get any easier from here.
+Honestly, I can't even tell how much you've got left...
+But you can't give up.
+You won't give up.
+Because someone is waiting for you.
+You don't need me to tell you that.
+Just...
+Just don't be too hard on yourself.
+Even when answers escape you and you're ready to succumb into despair...
+I believe in you.
+#+end_quote
+Mimic dies.
+*** Lillie
+Mimic looks like child Lillie.
+#+begin_quote
+Took your sweet time to get this far.
+Getting tired already?
+Or do you still wishfully think this is all just a dream?
+Here's a spoiler.
+You aren't waking up anytime soon.
+When will you accept that?
+Then again...
+You were always good at convincing yourself otherwise.
+
+What are you doing here anyway?
+Give up already.
+There's no point in delaying the inevitable.
+...
+Don't look at me like that.
+You're pathetic.
+...
+Please...
+Go away.
+...
+You'll never make it.
+#+end_quote
+** B168
+Rest tree
+#+begin_quote
+Is this place big enough?
+Seems sort of cramped.
+I'm sure this will suffice for our purposes, Your Highness.
+Unless you'd prefer the main ballroom instead?
+No way!
+I don't want Johann barging in while we, you know...
+If only you'd been so keen when you were younger, we wouldn't be in such a hurry.
+Well, it's now or never!
+So stop yapping and get on with it!
+Of course, Your Highness.
+And you'd better keep your promise!
+Yes yes.
+No wisecracking whatsoever.
+Good.
+May I have this dance, Your Highness?
+Just do me in already...
+And place your left hand on my shoulder, like so...
+Now, just follow my lead and try to relax.
+Okay...
+You'll be fine, Your Highness.
+Let us begin!
+#+end_quote
+
+Rhythm game! Dancing
+
+#+begin_quote
+Hey Gray?
+Yes, Your Highness?
+It's almost strange, to see you dancing.
+How so?
+I'm more used to seeing you kick and punch stuff.
+Where did you learn to dance like that?
+Or can't you remember that either?
+Oh, I do remember that quite well.
+I was about your age.
+ALl I knew back then was...
+Kicking and punching stuff, as you'd say.
+So I was rather apprehensive at first.
+Luckily I had a good teacher.
+Hmmm?
+Her Majesty, of course.
+I'm sorry, Your Highness.
+That was very tactless of me.
+Don't worry, Gray.
+I can't remember a thing about mother anyway.
+And yet...
+At times like these I wish she'd still be around.
+...
+I'm sure she is watching among the blessed stars, Your Highness.
+Especially now that your big day is only a few weeks away.
+... You really think so?
+You resemble her more and more by each passing year.
+You'd make her proud.
+What is it, Gray?
+Oh, nothing.
+I must be hearing things.
+(Was someone at the door just now...?)
+So, should we give it another go?
+Practice makes perfect after all.
+If you insist.
+(I wonder if you really are watching...)
+#+end_quote
+*** Lillie
+#+begin_quote
+This is preposterous!
+
+Please, no need to raise your voice like that...
+
+You skate on way too thin an ice to share any advice right now.
+We've been over this too many times already.
+Yet your daughter once again finds herself in the middle of a brawl...
+This time with students a year older than her!
+
+But as I understand it, Lillie wasn't the one who instigated the fight...
+
+That's besides the point!
+She dislocated an elbow of one of the boys!
+Do you have any idea what lengths I had to go to in order to calm down his parents?
+
+I'm terribly sorry...
+I'll make sure this won't happen again.
+
+... This is your last chance.
+
+<Gray and Lillie in car>
+
+Got anything to say for yourself, young lady?
+
+Why bother.
+Or did you suddenly start to care about my opinion?
+
+...
+I talked with the principal.
+Tomorrow you'll have to apologize to that boy for what you did.
+And I want you to mean it too.
+
+Thanks a lot.
+The only thing I'm sorry for is that I didn't get his other arm as well...
+
+Didn't I make myself perfectly clear when I trained you?
+You're only supposed to defend yourself.
+
+Those idiots started it!
+They kept making fun of my hair and voice...
+
+Because they know it gets to you.
+You'll just have to...
+
+Yeah yeah...
+Laugh it off.
+Such bullshit...
+
+Language.
+
+... Crap.
+
+Lillie...
+I'm always on your side.
+What those boys said about you, what they called you...
+At some point in time, I would've beaten them up myself had I been there.
+
+... Then what changed?
+
+I got old.
+I realized punches and kicks won't fix anything.
+You're only bringing yourself down to their level.
+You're better than that.
+
+... ... ...
+I'm sorry...
+For being such a screwup...
+
+Don't say that, dear...
+... Are you hungry?
+How about we grab some takeaway?
+
+... Yeah...
+
+Also, TV is banned for a month.
+
+No way!
+#+end_quote
+*** Cif
+Woman:
+#+begin_quote
+You had me worried for a second there.
+I thought I'd missed you.
+
+(You and me both...)
+
+I know this is just a dream but...
+Are you perhaps looking for something?
+
+...
+Now that you ask...
+Have you seen someone else around?
+Someone who looks a bit like me.
+
+Hmmm...
+Are their horns as big as yours?
+... Does it affect the outcome of your answer?
+
+... I'm afraid not.
+
+(What a waste of time.)
+#+end_quote
+** B169
+Mural
+[[./images/mural_B169.jpg]]
+Inscription:
+ONLYAENVYREMAINS
+*** Lillie
+Mural is the same.
+** B170
+Horned woman with no heart
+*** Cif
+Can see spectral footprints walk to stairs and hear someone go down.
+** B171
+4-eyes statue
+New enemy: diamond
+Diamond seems to chase you if you are reachable in the connected area it inhabits.
+Locust in chest.
+*** Lillie
+Seems to be totally different.
+** B172
+Missing?
+*** Lillie
+** B173
+Missing?
+*** Lillie
+Boulder:
+#+begin_quote
+Did you take my wife from me?
+#+end_quote
+Woman among boulders:
+#+begin_quote
+Another human?
+Hey, are you alright?
+
+Oh!
+
+Something wrong?
+
+So p-pretty...
+
+...
+Eh?
+
+Ack!
+
+S-sorry!
+I wasn't s-supposed to say that aloud...
+
+I-I'm sorry!
+I didn't mean what I said.
+
+...
+
+I-I-I mean you're very p-pretty, it's just that...
+When I get nervous I a-always run my mouth and...o
+... I'll shut up now.
+
+...
+Well, at least you're okay.
+
+What were you doing in here anyway?
+
+I ran into some m-monsters.
+I thought that maybe they wouldn't notice me between these rocks...
+
+Hate to break it to you...
+But you aren't exactly a master of disguises.
+
+... ... ...
+
+(Don't tell me she took that personally?!)
+
+Anyway, those monsters won't bother you anymore.
+I took care of them.
+
+R-really?
+You're amazing...
+
+(What's up with her?)
+
+[The shy woman keeps eyeing you]
+[...]
+#+end_quote
+** B174
+Trap diamond in the loop at the far left using the ice.
+Got crystal.
+*** Lillie
+No enemies.
+I think this might spell out text with alphabet.
+[[./images/B174_lillie.jpg]]
+** B175
+Lead diamond up rightmost path, go right to stairs.
+Easy to overthink this one.
+Got crystal.
+*** Lillie
+Very different again.
+** B176
+Can move stairs right next to button then release diamond.
+Not sure how to get the chest.
+Boulder:
+#+begin_quote
+So fierce was Lord Lev's might...
+Few sinners would make it past their judgement...
+To see the final depths of Void...
+Don't ask how I know...
+#+end_quote
+*** Lillie
+Seems to be back to "normal"?
+Easy enough.
+** B177
+Very easy.
+Locust in chest.
+** B178
+Two chests!?
+Statues seem to be getting activated based on how many times we use staff.
+Locust in left chest.
+Locust in right chest.
+When all statues are activated, we die.
+** B179
+New floor tile - circles.
+Also the punishment statues.
+Locust in chest.
+It appears that walking on a circle a second time destroys all connected flipped circles.
+Pushing statues also flips circles.
+*** Lillie
+This is a pattern room I think!.
+It matches the pattern from [[*B169]].
+It worked!
+Jumping down took me to a B??? with a fancy chest, 3 punishment statues, a glowing wall mural, and a wall button(?).
+iCannot reach wall button(?) (might just be normal wall).
+Also got crystal.
+Tablet: [[./images/B179_below_tablet.jpg]]
+Chest:
+#+begin_quote
+[... It's empty]
+
+[It's really, really empty]
+[But now that you take a closer look...]
+[It looks like the chest has been forcefully opened at some point]
+#+end_quote
+Took stairs, brought me to [[*B181]].
+** B180
+Easy, demonstrates use of circles to evade diamonds.
+Can get the chest easily (using the property that chests make you face away, just be sure to have a block)
+Locust in chest.
+** B181
+Fairly tricky.
+Need to tag the bottom and right circles and pick up the leftmost (IIRC you pick up first).
+Boulder:
+#+begin_quote
+Lord Lev was always loyal to Lord Add...
+Even when the battle pitted them against their own sister...
+... Lord Lev was always loyal to Lord Add...
+Don't ask how I know...
+#+end_quote
+** B182
+Staff immediately, run the diamond around, trap it in the bottom left eventually.
+*** Lillie
+Very easy.
+** B183
+Strange room, just a punishing statue.
+*** Lillie
+BEWARE 4-EYES STATUE. DO NOT RESET BY ACCIDENT.
+** B184
+Wait for diamond to get halfway across, pick up a block, bridge to stairs.
+** B185
+Teaches you that you can destroy all the punishment statues.
+** B186
+Crab statue.
+Destroying activated punishment statues also activates other punishment statues.
+** B187
+Hard.
+Gotta move the button.
+** B188
+Easy, just kill the ox with the circle pad on the left.
+*** Lillie
+Another easy room.
+Maybe an alphabet room?
+[[./images/B188_lillie.jpg]]
+** B189
+Crab statue.
+This one's a big scam.
+Beeline and push off the punishment statue, grab a tile, and then circle back to the start and make a boat.
+Not sure how to get the chest.
+*** Lillie
+Same layout, but much easier again.
+** B190
+Grab a circle from below, go to the rock from the top route, circle back to the stairs.
+Boulder:
+#+begin_quote
+The death of their sister left Lord Lev in such a distraught state...
+That Lord Lev, who had always been unwavering in their devotion...
+Took their own life...
+Don't ask how I know...
+#+end_quote
+*** Lillie
+Same layout, but much easier again.
+** B191
+Go up, push punishment statue left, bait diamond over one of the 1-width circle areas.
+Not sure how to get chest.
+** B192
+Staff
+Left
+Right
+Up
+Down
+Staff
+*** Lillie
+Nothing all! Just walk straight to stairs! Very strange.
+** B193
+Crab statue
+Walk over bottom left corner of circle square to kill enemies.
+Circle around on the right to destroy both punishment statues.
+Boat up to exit.
+
+Four boulders on the right are illusions?
+Can walk through them.
+Jumped into the pit past them.
+Brought me to another organic-looking B???.
+One mouth ghost, a horned statue, words on the wall, and a boulder.
+Wall tablet:
+#+begin_quote
+[Strange carvings glow through the niche]
+#+end_quote
+[[./images/B193_below_tablet.jpg]]
+[[./images/B193_below_tablet_pulse.jpg]]
+
+Boulder:
+#+begin_quote
+That hole...
+Do not enter it...
+You'll surely regret it...
+Don't ask how I know...
+#+end_quote
+
+Jumped down the hole past the boulder, ended up in another B???.
+This one has a punishment statue, a strange statue, and two snakes.
+The strange statue zaps you if you are in its line of sight.
+Hid behind snake to get past it.
+
+Jumped down another hole.
+Arrived in another B???.
+This one has two oxen, a punishment statue, and another laser statue.
+Blocked the statue with the oxen.
+
+Jumped down another hole.
+Arrived in another B???.
+This one has two grubs, one mouth ghost, a punishment statue, a bunch of sigil pads, and two laser statues.
+This one is precise - need to use mouth ghost to get past one statue and stop one grub from kiling itself.
+Then grab shadow and use grub + shadow to get past the other statue into hole.
+
+Jumped down another hole.
+This one has a clone, a punishment statue, and the hole surrounded by 3 laser statues.
+This one is pretty easy, killed all the statues with the clone.
+
+Jumped down another hole.
+2 black clones, one gray clone, punishment statue, horned statues, laser statues.
+Hard one.
+Have one black clone kill the other with the statue.
+Use the grey and black clones to get past the statue, then kill the clones.
+
+Jumped down another hole.
+This one has a laser statue blocked by a horn statue, and a clone in a closed off area with tiles that kill it instantly.
+Easy.
+
+Jumped down another hole.
+This one has many laser statues blocked by horn statues, and many mouth ghosts in an area full of death tiles.
+Easy.
+
+Jumped down another hole.
+This one is also very easy.
+
+Jumped down another hole.
+This one has two boulders!
+Pretty easy: use clone to move boulder and then push statue up into pit.
+First boulder: "Can I pray?" (seems like generic)
+Second boulder: "Nothing" (seems like generic)
+
+Jumped down another hole.
+Many pits, many snakes and grubs. Boulder and pit behind horned statues.
+Pretty easy.
+Boulder:
+#+begin_quote
+I can't remember these halls...
+Who built them...
+What are they hiding...
+Don't ask how I know...
+#+end_quote
+
+Jumped down another hole.
+Have to fly down and kill the snake right away to stop it from destroying the crab statues blocking the lasers.
+Boulder:
+#+begin_quote
+Those petty idols...
+That avaricious gaze...
+How did they survive...
+Don't ask how I know...
+#+end_quote
+
+Jumped down another hole.
+This one is very hard.
+Have to use the hole made by clone-pushing the first statue off to realign clone, then use clone to kill other statue.
+Very tricky.
+
+Jumped down another hole.
+Easy? Just get zapped down the hole.
+
+After falling down, entered another B??? with many chests, stairs, and a woman.
+Woman:
+#+begin_quote
+Excuse me...
+Sorry, I mistook you for someone else.
+
+Have you seen my sister?
+She has short hair and her eyes are the same colour as yours.
+She can be a bit shy, so she is probably hiding somewhere.
+
+Are you looking for someone as well?
+Sorry, I haven't met other people here except you.
+This place is pretty strange.
+It almost feels like I'd been circling these halls for days.
+I think we're both royally lost.
+...
+Hey.
+I'm sure you'll find the one you're searching.
+Don't give up.
+
+Don't give up.
+#+end_quote
+
+Chest contains locust: (maybe this message is just because it's my first locust this run lol)
+#+begin_quote
+[You acquired a locust idol]
+[It looks rather tasty, actually]
+[Who knows, maybe it'll come in handy in the long run]
+#+end_quote
+
+Took the stairs, wound up in another B???.
+9 empty chests, 12 full chests, 4 boulders.
+
+Took the stairs.
+A strange room. A corridor blocked by 3 dark idols (4-eyed statues), with an unreachable boulder and pit at the end.
+Had to take the stairs.
+Led to floor 196.
+*** Cif
+Footsteps led here. Let's do it again I guess.
+After the last room, leads to a chamber with many open chests.
+Bomberman style boss fight! Need to slash the invisible enemy.
+It's Mon.
+#+begin_quote
+Found you, finally.
+
+Ksi shi shi shi shi shi shi...
+Watch where you swing that pocket-knife of yours.
+Someone might get hurt.
+
+Mon...
+So it is you.
+
+My, you look like you've seen a ghost.
+
+Where have you been all this time?
+How did you manage to hide your presence from DIS?
+
+Frankly that's none of your business...
+But considering my cover is blown, I could tell you...
+For a price, of course.
+
+No thanks.
+I'll beat the answers out of you instead.
+
+Hoo?
+I'd love to see you try.
+
+I don't remember you putting up much of a fight previously.
+
+Ksi shi shi shi...
+Did you think I was taking it seriously back then?
+That little charade was all part of our plan!
+
+"Our" plan huh?
+
+...!
+
+So it is as I thought.
+A sycophant like you couldn't devise something this complicated on their own.
+
+...
+Ksi shi...
+KSI SHI SHI SHI SHI SHI SHI SHI SHI SHI!
+<third eye opens>
+A SIMPLE SLIP OF THE TONGUE WON'T GET YOU ANYWHERE, *****HORN.
+<creates many clones>
+<turns into big centipede>
+<boss fight time!>
+#+end_quote
+It's a hard and precise fight.
+Can talk to the severed tail/face after.
+#+begin_quote
+MY EYES...
+MY BRILLIANT EYES...
+
+Blame your fate.
+Now, if you wish for a quick, merciful end...
+Speak.
+What are you and Lev after?
+
+...
+SO YOU FINALLY FIGURED IT OUT...
+KSI...
+DO WITH ME AS YOU PLEASE...
+BUT KNOW THIS...
+THE TRUE LORD OF VOID WILL ONE DAY RETURN...
+AND THOSE WHO OPPOSE THEM...
+... WILL COME TO REGRET THEIR VERY EXISTENCE...
+FORGIVE ME, DEAR SISTER...
+I HAVE...
+... FAILED YOU...
+<smited>
+#+end_quote
+
+Took stairs to room with one boulder, hole, and stairs.
+Boulder:
+#+begin_quote
+Someone is waiting for you...
+Don't worry...
+They're okay...
+Don't ask how I know...
+#+end_quote
+
+Fell down hole.
+Landed on a beach.
+Bee is there!
+#+begin_quote
+UUAAAAAAAAAAAAAHHHH!!!
+
+. . . . .
+Sis...?
+Is that you?
+
+Hi.
+
+SIIIIIIIIIIIS!!!
+I was so afraid!
+
+Get a hold of yourself...
+
+You don't understand!
+I saw Lord Add!
+After all these years...
+But then they...
+
+That's not possible.
+Add is dead.
+
+No...
+NO!
+THIS MUST BE A TRICK!
+THAT MORTAL...
+IT MUST'VE BEEN THEIR WORK!
+
+Bee...
+
+I'LL FIND THEM...
+
+<Cif hugs her>
+I'm so glad you're okay.
+Never scare me like that ever again, you hear me?
+
+I...
+Is everything alright, sis?
+
+Yeah.
+I'm fine now.
+
+You sure?
+Then what happened to your hair?
+
+You don't like it?
+
+Quite the opposite!
+It fits your fat horns perfectly.
+
+...
+You donkey.
+
+Hey, how did you manage to find me anyway?
+
+That's a long story.
+Maybe some other time.
+I could use some rest now.
+
+You and me both!
+Roll credits!
+<winks>
+
+What.
+<credits roll>
+Fin
+#+end_quote
+Pressing escape says "Til next time", did it, quit game.
+
+Relaunched game to Bee and Cif on the beach watching the ocean.
+New title screen, asks to select language.
+** B194
+4-eyes statue.
+Walk down, push punishment statue off stairs.
+Pick up stairs.
+Walk and push 4-eyes statue on to button.
+Place stairs!
+** B195
+Four chests!
+Trap snake next to hand
+Build a line of circles
+Make sure they're all flipped.
+Unleash the snake to sink all of the punishment statues!
+Get chests :)
+Locusts in all 4 chests.
+*** Lillie
+No enemies.
+** B196
+Rest tree.
+#+begin_quote
+No peeking!
+Are you sure you don't need any help, Your Highness?
+I can handle this!
+I think...
+Why are you trying it on at this hour?
+Are you worried it won't fit anymore?
+There's not much we can do if that's the case...
+Shush with you.
+You haven't seen me wearing this after the adjustments, right?
+All I need from you is your expert opinion.
+And to make sure nothing is... Bursting out or something.
+... You can look now.
+So...
+How does it look?
+...
+Why are you grinning like that?
+I hope you aren't trying to concoct anything funny, you wisecrack.
+It's beautiful, Your Highness.
+I didn't expect anything less.
+But...
+But what?!
+I think it's missing something.
+... ... ...
+Is something wrong?
+Isn't it to your liking?
+No, it's just...
+I...
+I have never seen you without this.
+Is it really okay for me to use it?
+I've been carrying it around for as long as I can remember...
+But I think you'll carry that pendant much better than I ever did, Your Highness.
+
+You're late.
+My apologies.
+This place was harder to find than I thought.
+Why'd you call me here, Lady Gray.
+This has to end.
+What are you talking about?
+You know very well what I mean.
+I can't continue on like this.
+... How sudden of you.
+I'd never guessed your conviction would sway like so.
+I have kept my promise so far, haven't I?
+I'll marry your little princess and make her my queen...
+... So that she can finally attain her freedom.
+Isn't this what you wished for?
+Lily truly loves you.
+So what?
+Her emotions are meaningless.
+You've made it this far already.
+Her Highness will never be the wiser.
+After all, she's just a naive, spoiled brat...
+<slap>
+...
+...!
+She might be an insufferable, childish little imp...
+But I once made a promise to protect her.
+That's all that matters to me.
+... I thought you of all people would understand the importance of our responsibilities.
+I clearly misjudged you, Lady Gray.
+But don't get the wrong idea.
+It's too late to turn back now.
+In that case I'll tell everything to Lily.qq
+You wouldn't...
+Surely you understand what would happen...!
+So be it!
+Lily doesn't deserve this!
+I truly admired you...
+Ever since I saw you take care of those mercenaries...
+I knew you were most exceptional...
+Truly a waste.
+Unfortunately, my plans were set in motion long before you showed up, and I really don't have time for this...
+So if I can't have what I desire...
+You may as well die, Gray the Destroyer.
+#+end_quote
+*** Lillie
+Playing as Gray.
+Can walk around in house (same house from Lillie intro).
+Doors say "You should wake her up first."
+Bookshelf thing says: "Far ej overtackas. Ei saa peittaa."
+Last door says: "[...]"
+Entered dark room.
+Opened shades.
+Spoke with bed.
+#+begin_quote
+...
+Prepare to die.
+
+Not today, young lady.
+You're getting a bit too old for games like this.
+
+Spoilsport...
+
+And did you stay up all night again?
+No wonder you keep oversleeping.
+
+Mom...
+
+The entrance exams are only a few weeks away.
+How are you supposed to study if you don't rest properly?
+
+Mom!
+About those exams...
+I was thinking of taking a year off.
+
+A year off?
+What's this all of a sudden...
+
+I'm going to interrail with Sonia.
+We actually chatted about this last night and started to plan our trip.
+Don't worry, I've saved a bit already so you don't have to pay for it...
+
+Absolutely not.
+
+... Why not?
+
+The entrance exams are already hard enough...
+At least as a fresh graduate you have a better chance of getting in.
+I won't let you waste that opportunity.
+Especially since your military service starts next year.
+I want you to secure your degree place before that.
+
+You worry too much.
+It isn't such a big deal.
+Even Freya said it'd be okay.
+
+... So am I the only one who hadn't heard about this?
+
+...
+
+Either way my answer is still no.
+I'll call Freya myself and tell her you're not going.
+
+But mom...
+
+You'll have plenty of time to travel when you're older.
+Now I want you to think about your future.
+
+... ... ...
+
+Don't give me that look, young lady.
+This is for the best.
+
+My best or yours?
+
+...
+
+...
+
+We're done with this conversation.
+
+So I wasn't just imagining things.
+<Bee appears>
+How did a rat like you end up here?
+You weren't invited, were you?
+Relax.
+It's not like I can do anything to you...
+Yet.
+Don't think you can hide in these "dreams" of yours forever.
+Eventually, you'll wake up.
+#+end_quote
+** B197
+4-eyes statue
+Mural (blocked by statue and boulder)
+Boulder:
+#+begin_quote
+The brand of Lord Cif...
+Don't worry, it's already been carved...
+But what room was it...
+I can't remember the number, but it must be here somewhere in their domain...
+#+end_quote
+** B198
+Masked woman (the judge from the trial?)
+** B199
+Four 4-eyes statues.
+Strange sigil on the floor.
+Sigil spawns a shadow that chases.
+** B200
+Two 4-eyes statues.
+The shadow doesn't actively kill you by walking into you, but it keeps you from walking into your previous tile.
+Locust in chest.
+Got crystal.
+** B201
+Two 4-eyes statues.
+If the shadow dies, you die.
+Easy.
+Got crystal.
+** B202
+4-eyes statue.
+Fairly easy - replace the left ice with floor.
+Shadow can press buttons.
+** B203
+Two 4-eyes statues.
+You can spawn multiple shadows!
+So place the stairs just off the loop, and put both buttons and the sigil on the loop.
+Then just walk around the loop until you have enough shadows to press both buttons.
+** B204
+4-eyes statue.
+Extremely tedious.
+Rearranged the whole map by boating so that the button is next to the stairs, and connected to the sigil.
+** B205
+4-eyes statue.
+Similar to B204.
+Got 2 clones, arranged 2 buttons next to stairs.
+*** Lillie
+No tricks, just gotta manuever with the clones behind you.
+If you have wings, can get 2 clones only to make things easier.
+** B206
+Four 4-eyes statues.
+Just careful routing.
+** B207
+4-eyes statue.
+Shadows block mouth-ghost vision.
+Gotta loop around twice, pick up blocks when you can.
+*** Lillie
+Got crystal.
+** B208
+4-eyes statue.
+More tedious "ensuring the button is next to the stairs.
+** B209
+4-eyes statue.
+Easy without chest, not sure how to get the chest though.
+*** Lillie
+Got crystal.
+Boulder (may just be unseen default line):
+#+begin_quote
+5470041062466101,
+5470041062466102,
+5470041062466103,
+5470041062466104...
+#+end_quote
+** B210
+Two 4-eyes statues.
+Easy without chest, hard to get the chest.
+*** Lillie
+Got crystal.
+** B211
+Five 4-eyes statues.
+Kill all of the ghosts without spawning shadow by moving sigils.
+Then reposition the stairs and button, as usual.
+** B212
+One 4-eyes statue.
+Same old! Move the stairs and button over to the sigil.
+*** Lillie
+Got crystal.
+** B213
+Two 4-eyes statues.
+Big konga line time!
+** B214
+One 4-eyes statue.
+This is an interesting room.
+Very easy.
+** B215
+Four 4-eyes statues.
+Go get shadow, shadow blocks diamond vision. 
+*** Lillie
+Got crystal
+** B216
+4-eyes statue.
+Two loops on the bottom sigils.
+Pick up the stairs, place them once all buttons are filled.
+Got crystal.
+** B217
+4-eyes statue.
+Rather difficult.
+Involves a lot of tedious shuffling again.
+Never touch a sigil, try to get below the bottom hand (after it's killed by the statue)
+Push left and staff immediately.
+** B218
+4-eyes statue.
+Easy, but a lot of tedious boating.
+** B219
+4-eyes statue
+I think I did this the wrong way, but basically I just put the button next to the stairs.
+Then I let the diamond chase me and push the button.
+Didn't use the shadow at all.
+** B220
+4-eyes statue.
+Easy.
+Rearranged buttons and stairs, walked around one loop twice to get two shadows.
+** B221
+4-eyes statue.
+Tough one, but the same general theme - put the button next to the stairs, get a shadow.
+Lots of boating.
+Goal is to collect all the solid floors together.
+*** Lillie
+Got crystal
+** B222
+Six 4-eyes statues.
+Interesting room, just sigils.
+** B223
+We skipped 223!?!?
+Going there via UI warp:
+It appears to be a brand pattern!
+The pattern is:
+##...#
+.#.#.#
+.#..#.
+#.#...
+#..#..
+##.?.#
+(Where ? is the stairs, so may or may not be included)
+** B224
+Got crystal from UI.
+Rest tree.
+We skipped 223, apparently.
+We're on 224 now.
+#+begin_quote
+... It's...
+Morning already...?
+How am I still alive?
+Could he have missed somehow...
+But even if that were true...
+Lily...!
+#+end_quote
+
+Freaking out guy:
+#+begin_quote
+Lady Gray!
+Thank heavens you've arrived!
+The princess... she's out of control!
+Please, do something!
+You're our only hope!
+
+Please, hurry!
+#+end_quote
+
+Guard:
+#+begin_quote
+It hurts...
+
+Take care of the princess, Lady Gray...
+#+end_quote
+
+Other guard:
+#+begin_quote
+Forgive me, Lady Gray.
+All I could do was run away.
+
+How can I face His Majesty after this?
+#+end_quote
+
+#+begin_quote
+[Something is wrong]
+
+[..!]
+
+Your Highness!
+
+By the sacred stars what do you think you're doing?!
+What's wrong with you...
+...
+Come on...
+Let's get you inside...
+
+Halt, Gray the Destroyer!
+Step away from the princess!
+What...
+What are all these soldiers doing in here, Johann?!
+You tell me, my dear lady.
+What sad state of affairs this is...
+To think the princess' loyal servant would prove to be such an envious persion...
+... That she would attempt to assault Her Highness right before her wedding day.
+I guess it's expected from a former outlaw.
+Assault...?!
+How impudent can you get!
+Once the king hears about this...!
+I've informed His Majesty about the situation.
+He entrusted me with the task of capturing you.
+It goes without saying that this kind of treachery won't go unpunished.
+You'll be executed tomorrow.
+We wouldn't want to spoil the mood for the wedding or the coronation ceremony, now would we?
+... You absolute scum of the earth...
+Now now.
+Don't be hasty.
+My men are well aware of your reputation, Gray the Destroyer.
+I don't think even you would be brazen enough to believe you could take them all head on.
+I couldn't care less...
+As long as your head rolls along with mine!
+Stop!
+Your Highness...
+Please stop this, Johann...
+I'll do what you want.
+Just don't hurt Gray.
+My...
+For once, the princess is the voice of reason. What a pleasant surprise.
+How about it, Gray the Destroyer?
+Turn yourself in peacefully and I'll make sure to honor Her Highness' wish.
+...
+Lily.
+... I'm sorry.
+#+end_quote
+*** Lillie
+#+begin_quote
+Are you really sure?
+
+For the thousandth time, yes.
+
+...
+
+What's the holdup?
+
+What about your mom?
+
+Is she okay with this?
+
+Don't you worry about her.
+
+Now, off with the head!
+
+I'm home!
+
+Took your sweet time...
+Dinner is almost ready.
+...
+W-what...
+What happened to your hair?
+
+Ehehehe...
+You noticed?
+
+Explain yourself, young lady.
+Sonia said she wanted to practice...
+So I volunteered!
+
+Couldn't she ask for anyone else?!
+You've been growing your hair since you were little!
+It may never grow as long again!
+
+Well tough luck.
+The deed is done.
+
+... Why didn't you say anything beforehand?
+
+Because I knew you would just fume about it and tell me no.
+I'm old enough to decide what I want to do with my own hair.
+
+Clearly no.
+
+What's that supposed to mean?
+
+Haven't you hard that variety is the spice of live and all that?
+Besides, short hair is all the rage now.
+Boys like it too.
+
+So you cut your hair just for some passing fad...
+To impress some brainless punks?
+Don't you know what they say about short-haired women?
+
+Umm, welcome to the 21st century, granny.
+Why don't you get your hair cut as well.
+Who knows, maybe that way you could get some action between those uptight legs of yours and loosen up a bit.
+
+<slap>
+...
+
+...!
+
+I won't listen to such talk from anyone in this house.
+How did you turn out such a haughty woman...
+You're worse than your mother!
+
+... ... ...?
+
+!!!
+
+M-mom?
+
+Get out.
+I can't stand to look at you like that.
+
+But...
+
+Get out!
+#+end_quote
+** B225
+Mural: our own brand
+
+Coming here non-voided: the room is all sparkly. The world scrolling by underneath?
+Mural is completely blank.
+** B226
+Completely empty room
+Song has vocals!?
+
+Coming here non-voided: still all sparkly! No vocal track.
+*** Lillie
+NPC is here.
+A man.
+#+begin_quote
+...!
+
+(Why is that old geezer staring daggers at me?)
+
+Yet another trick...?
+You fiends...
+Does your malevolence know no bounds...
+
+I'm sorry, is there a problem here?
+
+Begone, demon!
+
+!!!
+(Maybe I should leave him alone...?)
+
+... ... ...
+Hmmm.
+I may have mistaken you for someone else.
+
+What is a young girl doing in a place like this?
+And what happened to your hair?
+Some kind of accident perhaps?
+
+My hair is doing fine, thank you.
+And don't you girl at me!
+Is that how you're supposed to talk to ladies?
+Or did you escape from a nursing home, old man?
+
+What a shameless woman.
+Do you have any idea who you're talking to?
+
+You could be the emperor of Whaddayacallit for all I care.
+But that doesn't mean I'm going to just gel with that holier-than-thou attitude of yours.
+
+...
+
+...
+
+Bwahahahaha!
+
+(Did he lose it completely?)
+
+So this is what the world has turned into...
+Maybe I did have it all wrong from the beginning.
+
+...?
+
+Never mind me, young lady.
+I'd advise you to continue your journey.
+There's very little this old man can do to help you.
+
+[The old man encourages you to move on]
+[...]
+[What a strange old man]
+#+end_quote
+** B???
+Starts cutting through different unsolvable floors
+Stops at a rest tree.
+Rested.
+
+#+begin_quote
+No matter how much you sleep...
+Your eyes feel heavy.
+Dreams elude you.
+Can you remember why you are here?
+Or have you lost something very important to you?
+Without it, you'll never reach the end.
+
+<flashes symbol from first mural>
+
+... The envious one has poisoned your body, your mind, your devotion.
+Seek the dark idol to cleanse yourself, to return where you startedss
+#+end_quote
+
+Went down stairs in front of 4-eyed statue (dark idol?)
+
+"Only a simple memory will remain"
+** B227
+Empty chest, simple room.
+
+Coming here non-voided: interesting square room.
+Looks like the brand selection screen!?
+** B228
+Only non-voided seemingly.
+Simple room with stairs.
+Shaped like a Z?
+#+begin_quote
+#..
+#.#
+..#
+#+end_quote
+*** Lillie
+Got crystal
+** B229
+Only non-voided seemingly.
+Simple room with stairs.
+Shaped like a Y!
+#+begin_quote
+#..
+#.#
+.#.
+#+end_quote
+*** Lillie
+Got crystal
+** B230
+Shaped like an X!
+#+begin_quote
+#..
+#.#
+...
+#+end_quote
+*** Lillie
+Got crystal
+** B231
+Shaped like a W!
+#+begin_quote
+#..
+#..
+###
+#+end_quote
+*** Lillie
+Got crystal
+** B232
+Shaped like a V!
+#+begin_quote
+#..
+#..
+#.#
+#+end_quote
+*** Lillie
+Got crystal
+** B233
+Shaped like a U!
+This seems to be teaching us an alphabet, there are smaller symbols on the right.
+#+begin_quote
+#..
+#..
+##.
+#+end_quote
+*** Lillie
+Got crystal
+** B234
+T
+#+begin_quote
+#..
+#..
+#..
+#+end_quote
+*** Lillie
+Got crystal
+** B235
+S
+#+begin_quote
+#..
+#..
+.##
+#+end_quote
+*** Lillie
+Got crystal
+** B236
+R
+#+begin_quote
+#..
+#..
+..#
+#+end_quote
+*** Lillie
+Got crystal
+** B237
+Q
+#+begin_quote
+#..
+#..
+.#.
+#+end_quote
+*** Lillie
+Got crystal
+** B238
+P
+#+begin_quote
+#..
+#..
+...
+#+end_quote
+*** Lillie
+Got crystal
+** B239
+O
+#+begin_quote
+#..
+..#
+###
+#+end_quote
+*** Lillie
+Got crystal
+** B240
+N
+#+begin_quote
+#..
+..#
+#.#
+#+end_quote
+*** Lillie
+Got crystal
+** B241
+M
+#+begin_quote
+#..
+..#
+##.
+#+end_quote
+*** Lillie
+Got crystal
+** B242
+L
+#+begin_quote
+#..
+..#
+#..
+#+end_quote
+*** Lillie
+Got crystal
+** B243
+K
+#+begin_quote
+#..
+..#
+.##
+#+end_quote
+*** Lillie
+Got crystal
+** B244
+J
+#+begin_quote
+#..
+..#
+..#
+#+end_quote
+*** Lillie
+Got crystal
+** B245
+I
+#+begin_quote
+#..
+..#
+.#.
+#+end_quote
+*** Lillie
+Got crystal
+** B246
+H
+#+begin_quote
+#..
+..#
+...
+#+end_quote
+*** Lillie
+Got crystal
+** B247
+G
+#+begin_quote
+#..
+...
+###
+#+end_quote
+*** Lillie
+Got crystal
+** B248
+F
+#+begin_quote
+#..
+...
+#.#
+#+end_quote
+*** Lillie
+Got crystal
+** B249
+E
+#+begin_quote
+#..
+...
+##.
+#+end_quote
+*** Lillie
+Got crystal
+** B250
+D
+#+begin_quote
+#..
+...
+#..
+#+end_quote
+*** Lillie
+Got crystal
+** B251
+C
+#+begin_quote
+#..
+...
+.##
+#+end_quote
+*** Lillie
+Got crystal
+** B252
+B
+#+begin_quote
+#..
+...
+..#
+#+end_quote
+*** Lillie
+Got crystal
+** B253
+A
+#+begin_quote
+#..
+...
+.#.
+#+end_quote
+*** Lillie
+Got crystal
+** B254
+Rest tree.
+Standard dialogue.
+Rested.
+
+Upon returning, gray is in the dungeon alongside frantic man.
+#+begin_quote
+Lady Gray!
+I couldn't believe my eyes when I saw the guards taking you...!
+They I heard about the assault accusation...
+What poppycock!
+You would never hurt Her Highness!
+The ceremony has already started.
+I don't know why, but something...
+Something just isn't right.
+That's why I took the liberty of bringing in your battle attire.
+Although I hope it doesn't come down to it...
+Please, Lady Gray, save Her Highness and escape!
+Only you can do it...
+Onl you can protect her happiness!
+That's what Her Majesty would've wanted!
+
+Take cover.
+I'll distract the guards.
+
+Oh no!
+The prisoner is escaping!
+She went this way!
+Hurry up and catch her, you dolts!
+
+<Gray flees>
+
+Lady Gray!
+Don't worry!
+Four-eyes clued us in.
+We'll do our best to hold back Lord Johann's men.
+Maybe our good-for-nothing lives will finally matter, even just a little bit...
+Now go!
+Rescue Her Highness and flee!
+
+It seems the lady-in-waiting has clawed her way out of the dungeon.
+Gray!
+Your Highness, are you okay?!
+I'm sorry, Gray...
+I couldn't do anything...
+Now everyone has...!
+What's the meaning of this, Johann?!
+I'm afraid you arrived just a bit too late.
+The sacrifice...
+It is almost done.
+What...?
+
+Everything in this world comes with a price.
+I learned this lesson a long time ago when I lay wounded on a silent battlefield, starving and freezing to death...
+I kept praying to the stars but the stars wouldn't answer.
+Until finally all I could do...
+... Was to curse my rotten fate and blame those responsible for it.
+Then they appeared before me.
+They promised me life and power to change this world.
+All they needed in exchange was my unwavering devotion.
+
+Led by that, I come to offer this measly kingdom and its inhabitants as part of our contract.
+Show yourselves, Lords of the Void!
+
+Yeah yeah.
+Ease on the melodrama.
+
+...
+
+... So these fiends are the source of your power...
+Demons!
+
+Hmm, I think that's what you mortals do call us now...
+While I don't like the sound of it...
+Explaining it all in detail would be way too complicated for you.
+Demons will do.
+
+The hell I care what you're called!
+Just leave Her Highness out of this, Johann!
+
+My quota is still a bit short, correct?
+
+... That is correct.
+One soul remains.
+
+What ever shall I do...
+
+How about you help me decide, my dear lady?
+If you offer your soul as the final part of my sacrifice, I'll promise to let your princess live.
+
+... And why would I trust you ever again?
+Because you'll cling to any semblance of hope of keeping your petty princess safe.
+Just like you did in order to persuade me into marrying her...
+
+Shut up you bastard!
+If only you'd known I'd marry Her Highness either way to fulfill my plan...
+Luckily playing hard to catch paid off in spades, since I quite enjoyed your...
+Enthusiasm.
+
+...
+So do what you do best!
+Squirm before me, o mighty Gray the Destroyer!
+
+...
+I...
+
+Don't you even think about it!
+
+...!
+The Gray I know isn't such a wuss!
+Groveling like that is pathetic!
+After all these years...
+... You now decide it's okay to just quietly fade away?!
+Quit acting like you're about to give up!
+
+... Now I'm getting a pep talk from Her Highness...
+How low I must've fallen...
+
+<Gray puts down her hair and prepares to fight>
+
+Johann.
+I refuse your offer.
+And I'll make sure you'll pay for all you've done.
+I swear it as Gray the Destroyer!
+
+...
+Bee.
+
+Umm, that's "Lord" Bee to you...
+
+Would you like to entertain this haughty wench?
+
+Ooooh, really?!
+Can I do it, sis?
+
+... Do as you please.
+But if DIS finds out, you're on your own.
+
+Yay!
+Hello!
+I'm Void Lord Bee!
+Nice to meet you.
+Now...
+LET'S GET FIRED UP, MORTAL!
+#+end_quote
+
+Battle scene: "Void Lord Bee looms upon you"
+She has no HP, just "VOID 2".
+Check: "A monster whose mere existence mocks the world itself"
+Defended repeatedly, was eventually killed in one hit.
+
+#+begin_quote
+Damn it...
+What are you?
+
+Huh, did it break already?
+Boooring.
+
+You should be pleased she lasted for that long.
+Usually mortals simply lose their minds at the sight of our true forms.
+Either way...
+Playtime is over.
+Complete the sacrifice, surrogate.
+
+Will that fulfill my contract?
+
+Naturally.
+
+Watching you struggle was truly magnificent.
+Shame things turned out this way...
+As the future emperor of this waking world, I would've loved to have you beside me...!
+
+(Crap...)
+(I'm sorry...)
+(I couldn't fulfill my promise to you...)
+(I can only pray for Lily's safety with you... In the afterlife...)
+
+Wait!
+Hey, big horns!
+
+... Big what now...?
+
+I don't fully understand what's going on...
+But if Johann made some kind of contract with you...
+... I want to make one as well!
+I'll offer myself!
+All I want is that you leave Gray alone!
+
+Now this is rich!
+Our juvenile little princess thinks her soul is worth something.
+
+...!
+
+Do you believe you can just make a contract with them like it's nothing?
+How unbelievably gullible you'd have to be!
+
+Very well.
+Young lady.
+Do you wish to offer your soul?
+
+Now wait a minute!
+This has to be a joke, right?
+This asinine child doesn't even understand the meaning of devotion...!
+
+That isn't something you'll be the judge of, surrogate.
+
+...!
+
+Are you certain of this, Your Honor?
+
+DIS has approved her terms.
+A contract can be formed.
+
+Hoooo!
+This got super interesting!
+
+I'll ask you once more, young lady.
+Do you wish to offer your soul in exchange for the safety of this woman?
+... Yeah.
+I do.
+
+Your Highness, wait!
+I can't accept this!
+You there...!
+You seem like the leader of this bunch...
+I beg you, take my soul instead!
+Tear my body apart if you have to!
+
+... I'm afraid that's not possible.
+But if you truly wish to reclaim her...
+Meet us at the end of the Void.
+She will be waiting for you there...
+There DIS will revaluate the worthiness of your devotion.
+
+What...
+What's going on...
+How did it come to this...?!
+
+Gray.
+...!
+
+You worry too much.
+It's better this way.
+Earlier I was so scared I thought I'd rather die...
+Now I don't even really know what's happening, or where I'm headed to, either...
+But for as long as you stand there...
+I'm not afraid.
+Like how you always kept believing in me...
+I'll now place my faith in you.
+And...
+
+...
+Lily...
+Please take care of it while I'm away.
+It's an important wedding gift and I don't know what I'd do if I lost it.
+So make sure to return it, alright?
+
+Your Honor, our time is almost up.
+
+...
+Are you ready, young lady?
+
+You can bet your ass on it, tinhead!
+It's about time I start to live up to that nickname of mine...!
+Very well.
+
+There's something I need to tell you.
+<disappears>
+
+... Who would've guessed.
+Well, this result is as good as any.
+Unfortunately I'm not willing to take the risk of leaving you alive.
+This time I won't miss!
+Nothing's happening...?!
+
+Ooh, forgot to mention.
+Since you didn't finish the sacrifice in time, your contract has been voided.
+So you can say goodbye to those magical finger snapping powers of yours and what not.
+
+This isn't funny, Bee...!
+I was only one short!
+Do I look like I care?
+Besides I've got a feeling that's the least of your problems right now...
+See ya soon!
+
+Gray, please...
+This has been a rough day for us all...
+<gray kills him>
+#+end_quote
+*** Lillie
+#+begin_quote
+<phone rings>
+... Hello?
+Freya?!
+How did you get this number...
+No no, this was just a bit sudden.
+Has something happened?
+... ... ...
+Yeah, I'm still here.
+Could-
+Could I call you back?
+Thanks.
+#+end_quote
+
+Taken to B??? with stairs and image of Gray floating.
+Took stairs.
+
+Taken to B??? with stairs and image of Gray as The Destroyer cradling baby floating.
+It's scrambled a bit.
+Tried fixing it.
+After fixing:
+#+begin_quote
+It was years ago but I still remember it vividly.
+At the time I was hardly having any sleep.
+So I got out of bed early to catch a glimpse of a solar eclipse.
+When it was over, I saw a strange woman covered in tattered clothes in the middle of the street.
+She was just lying there, quietly, gently holding something between her hands.
+Almost as if she'd appeared out of nowhere.
+
+... That woman was Gray?
+
+Yeah.
+#+end_quote
+Took stairs.
+
+Take to B??? with another scrambled image.
+It's a pregnant Freya looking down at Gray.
+#+begin_quote
+When I got closer, our eyes met.
+I've never seen eyes as dark as hers.
+She was on the verge of tears.
+When she finally started speaking, I couldn't understand her at all.
+But it was evident how scared she was.
+Then I saw what...
+Who she was cradling.
+#+end_quote
+Took stairs.
+
+Taken to B??? with another scrambled image.
+Image was Gray's hands holding baby.
+#+begin_quote
+A baby ever so small and frail.
+Almost like a doll.
+I thought I was dreaming.
+But there you were, Lillie.
+
+... And then what?
+
+Well, I couldn't just leave you two there.
+So I took you in.
+#+end_quote
+Took stairs.
+
+Taken to B??? with another scrambled image.
+Image was Gray's naked back, covered in scars.
+#+begin_quote
+After the dust was settled, we took you to a checkup.
+You'd already grown into a perfectly healthy baby.
+Gray, however...
+It was hard to tell at a glance, but her body was covered in old bruises and scars.
+The doctor also noticed something abnormal.
+Her womb and ovaries were both missing, as if they'd been completely removed.
+Yet there were no signs of surgery of any kind, despite all the other damage her internal organs had sustained.
+She couldn't have ever given birth, that much was certain.
+
+...
+I guess that settles it then.
+
+You hardly sound surprised.
+
+I had my doubts.
+For longer than I care to admit.
+#+end_quote
+Took stairs
+
+No stairs this time, another scrambled image.
+Image was Gray holding baby.
+#+begin_quote
+What about my real parents?
+Didn't Gray tell you about them?
+
+Not much.
+When I asked about your father, she told me he died a long time ago.
+And your mother..
+Gray never said anything about her.
+But whenever I tried to bring it up...
+Gray wouldn't admit it, but I could see it opened some wounds much deeper than those on her skin.
+
+... Am I supposed to feel sorry for her now?
+
+Lillie...
+I can't pretend to understand what you're going through.
+But I do know that Gray always took care of you like one of her own.
+She loved you more than anything.
+
+Loved?
+<Lillie collapses>
+(I've had enough...)
+<Falls on her face>
+(Just...)
+<Turns into boulder>
+End it all
+
+<Bee appears, circles boulder>
+Another one bites the dust!
+And boy did they take their sweet time.
+Oh well.
+At least they ended up becoming quite a juicy little morsel.
+<Boulder glows>
+Strange.
+I didn't know these things could glow.
+
+<Staff explodes out of boulder>
+<Huge figure appears>
+Wha-
+WWWHAAAAAAAT!!!!!!
+<Bee is smited>
+You do not belong here, little one.
+
+<Meteor falling, many locusts, Lillie observes>
+<Back in Gray's time, with Gray looking at the gravestone>
+
+... Gray?
+
+...
+
+What a time and place for you to show up.
+What took you so long?
+Did you start to miss me while I was gone?
+
+...
+
+Guess the cat got your tongue.
+Again.
+You aren't still mad about the hair, are you?
+After cutting it, I tried dyeing it at one point as well.
+Too bad the colour didn't stick properly.
+I would've loved to see your reaction.
+
+...
+
+Here we go again with that judgemental leer.
+I'm starting to recall why I left in the first place.
+
+<Gray embraces her>
+<Flashback of their moments together>
+
+I'm still mad at you.
+
+I just wish you were here to hear that.
+
+Goodbye...
+<Gray disappears>
+Mom.
+#+end_quote
+
+Back to our room. It's clean now. Walking sequence.
+Note on the desk.
+#+begin_quote
+[There's a sealed envelope on the table]
+[It's addressed to you]
+[Would you like to open it?]
+<Got pendant>
+[Inside the envelope is a small pendant, along with a handwritten letter]
+[... Should you read it?]
+
+"For these defects, and for no other evil, we now are lost and punished just with this."
+"We have no hope and yet we live in longing."
+<Void court appears, Bee is missing>
+... It seems we're one short.
+What happened to them?
+Beats me.
+...
+What an interesting development.
+Stranger.
+Making it this far should be commendable...
+But DIS cannot detect a strong devotion within you.
+Under normal circumstances, an aimless soul would slowly fade away at the depths of this compound.
+Yet here you stand before us.
+This situation is quite unorthodox...
+Nevertheless we can't have you remain here.
+As long as you leave in peace...
+DIS is willing to make a contract with you.
+So tell us.
+What is it that you desire?
+
+Desire?
+I'm not sure if I've ever given it a proper thought.
+
+Surely there is something your soul craves.
+Power?
+Wealth?
+Love?
+Or maybe...
+Something you've lost.
+Something very important.
+
+... ... ...
+Could you really fulfill something like that?
+Who...
+Or what are you, exactly?
+Demons?
+Gods?
+
+Answers to such questions would be meaningless to you, stranger.
+But I'll say this much.
+No desire, no matter how great, is beyond the realm of possibilities.
+
+...!
+
+Is there a problem?
+
+I'm alright now.
+I was just feeling a bit lightheaded for a moment.
+...
+If I could wish for one thing...
+I want my mother to know that no matter the reason she chose me...
+I'm grateful for everything.
+Please, let her have her peace.
+
+...
+Pffft...
+A ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha haa!
+<Mask shatters>
+Well said, stranger!
+<Lillie meets Lily>
+
+So?
+What do you think?
+...
+To be perfectly honest, Your Highness.
+I find it too sophisticated for my taste.
+Never to mince any words, as usual.
+Long ago, people gave that name to the brightest star in the sky.
+I just hope one day she'll shine just as bright.
+Until then...
+Take care of her.
+#+end_quote
+Freezes on "Void Stranger Lilith" screen.
+Pressing Escape brings up usual give up screen, but now it says "Thank you"
+Held it.
+Game closes.
+
+Reopens in the house with Lillie and Lily.
+#+begin_quote
+Seriously?
+I'm supposed to live in this rundown shack?
+
+Well excuse me, Your Excellency...
+There weren't any vacant palaces available.
+Sheesh, I would never have guessed you're such a spoiled brat...
+
+Is that how you're supposed to address your elders?
+Just call me mom.
+
+No fuckin' way!
+This is already way too awkward!
+Anyway, maybe we'd eventually afford another place if you found a job...
+
+Oooh, what're these?
+
+(Don't just ignore me like that you lazy ass...)
+
+These're called photos, right?
+How cute!
+Did Gray take these?
+
+Yeah, there's a whole album of them.
+She was never too keen on technology...
+But she did enjoy using a camera quite a lot.
+Maybe she hoped to share these pictures with you one day...
+Speaking of...
+
+What is it?
+I was supposed to give you this a while ago.
+
+A letter, for me?
+But why has it already been opened?
+
+Here's the funny thing...
+I actually found it in my room and thought it was addressed to me.
+So I opened it and...
+I couldn't understand a single word.
+Gray must've written in one of those ancient languages she used to study.
+But now that you're here...
+I figured she left it for you.
+
+...
+Not quite.
+This is meant for both of us.
+
+...
+Get out!
+What does it say?!
+
+Let's see...
+
+<Cut to the void, white-haired girl speaking to glasses demon>
+<White haired girl may have been the person behind broken mask>
+You know you shouldn't pry on someone else's letter like that.
+Still keeping an eye on them?
+
+... What are you talking about?
+
+Your lousy disguise may have fooled DIS...
+But I know you've been watching over them for a long time now.
+Or did that child end up here by sheer accident, only to finally meet their mother?
+
+...
+That's what Add would've wanted.
+I owed it to them.
+Besides, I only gave them a small push.
+
+Sure.
+Don't worry.
+Your secret is safe with me.
+
+Hmph.
+I've kept my end of the bargain.
+Now, stranger...
+Have you finished your research?
+
+More or less.
+
+So I take it you'll be leaving soon.
+Then answer me.
+Who or what is DIS?
+
+... ... ...
+I surmise this place was originally some sort of a research facility governed by an entity known as DIS.
+Unfortunately even I'm not able to access the true depths of this compound, so the details remain hazy.
+The main server's been locked behind mechanically surveilled areas.
+If I had to guess, I'd say not a single living soul has entered them in a few millennia.
+And most likely never will again.
+
+...
+<Error windows appear>
+However, there were a few remote memory units I was able to access.
+Most of them were dilapidated beyond repair.
+But even just a fraction of their data tells quite a telling tale.
+Scattered resarch notes regarding quantum space travel, warp technology, gene splicing...
+Even more curious is the fact that all these records end abruptly at the same point in time.
+That was over 70000 years ago.
+Some kind of cataclysmic event must've taken place here a long time ago.
+Did an experiment backfire?
+Or maybe a war broke loose?
+Whatever the case, it seems that the manusya of this planet were nearly wiped out.
+<Windows close>
+
+... So why are we still here?
+What's our purpose?
+
+I'm afraid I don't have an answer to that either.
+Maybe DIS is still attempting to fulfill the original role of this facility.
+Whatever that might be.
+
+...
+That's just a fancy way of implying we're mere guinea pigs to it, correct?
+
+... I'm sorry.
+It must've been hard for you and your sisters, all these years...
+
+Don't get me wrong.
+The time we deserved some sympathy is long gone.
+Considering all the things we've been part of...
+I only wished for some closure.
+Before you go...
+Can I ask you something else?
+Why were you so interested in the princess?
+
+... ... ...
+Hmm...
+This'll probably sound pretty silly to you, but...
+She reminded me of someone, that's all.
+Guess we're in the same boat.
+<Door appears>
+I'll be leaving now.
+I hope that one day you find the answers you're looking for.
+Until then...
+Take care, Cif.
+<Seemingly interrupted before door, sent flying upward, hits ceiling>
+<Credits start to roll, also seemingly interrupted>
+
+. . . . . . .
+I completely forgot Bee.
+<Lets down hair>
+<Void Stranger -Cif->
+<Spawns in to B001, completely different set of tools? An orb, bat wings, a sword. Do they work the same?>
+#+end_quote
+** B255
+Completely full of floor.
+Made a hole and fell down.
+
+#+begin_quote
+"For these defects, and for no other evil, we now are lost and punished just with this:"
+"We have no hope and yet we live in longing."
+
+You've traveled far, stranger.
+Through these endless halls, you've shown us the extent of your devotion.
+We applaud you.
+
+Congratulations.
+
+Congratulations!
+
+Stranger.
+Your devotion has exceeded the expectations of DIS.
+For such a display alone, DIS is willing to make a contract with you.
+So tell us.
+What is it that you desire?
+
+... Give her back.
+Please, give Lily back to me.
+
+...
+Your devotion continues to impress.
+Thus, you're allowed to take one soul with you.
+With one condition.
+You may never return here.
+Do you accept these terms?
+
+I do.
+
+Very well.
+
+... Wha are you waiting for?
+I'm done with playing your games!
+
+An incongruity has risen with this particular subject.
+A zygote inside the subject has developed into a blastocyst and attached itself into the mucous membrane of the womb.
+
+Tsygowhat now?
+
+... In layman's terms, another soul has begun to grow inside the princess.
+
+No...
+No no no no no no!
+You're lying!
+
+Stranger.
+
+Don't you dare say it...!
+
+Which soul do you wish to take with you?
+
+Shut up!
+Shut up, shut up, shut up!
+You think I'm goin to just accept this?!
+You tricked me!
+This DIS you keep mentioning...
+Let me talk directly to them!
+I want to know what this is all about!
+Why do you keep toying with us like this...
+... You treacherous fiends!
+
+...
+Even if you were to find our actions heartless or incomprehensible...
+That's not something you should concern yourself with, stranger.
+No matter how things may have turned out...
+This choice was made for you.
+That's the only thing that matters now.
+
+...
+... I want to see her.
+
+... Very well.
+
+She is...
+Asleep?
+
+More or less.
+Our life support systems are keeping her in a state one could liken to an artificial coma.
+Fret not, her rest is a peaceful one.
+
+Does she know...?
+
+Highly unlikely.
+If you were to take her with you...
+All of this would be but a dream to her.
+I'll ask you once more, stranger.
+What's your decision?
+
+<credits roll>
+<Gray reawakens in a modern city holding a baby.>
+<game closes>
+<upon reopening, car pulls up to a fence and mailbox>
+<woman gets out: looks like lily!>
+<free walking segment inside house>
+
+("Dictionnaire Infernao"...)
+(A passage about Beelzebub, Lord of the Flies, has been highlighted.)
+(... I really don't have time for this nonsense.)
+
+(This bookshelf is a mess.)
+
+(The fridge has started to smell...)
+(I'd rather not open it.)
+
+(...)
+(Looks like these have been dusted somewhat recently.)
+(... Stubborn old woman.)
+
+"Far ej overtackas. Ei saa peittaa."
+
+(All these drugs strewn about...)
+
+(The clock seems to have stopped.)
+
+(Pills in the toilet as well...)
+
+(What a mess...)
+(The birth certificate must be in here somewhere.)
+(Better start looking around.)
+
+(You really let yourself go with these books...)
+
+(It's completely withered.)
+(You were never good with flowers anyway.)
+
+(... Nothing.)
+
+(Bingo!)
+...
+Guess that settles it then.
+
+...?
+
+[There's a sealed envelope on the table]
+[It's addressed to you]
+[Would you like to open it?]
+
+<pit opens in floor>
+<vision of demon - four eyes, is this Cif?>
+<fall down pit>
+<back to B001! as this new character!>
+#+end_quote
