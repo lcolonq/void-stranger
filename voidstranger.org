@@ -23,6 +23,7 @@
 Got merchant tips on: [[*B004]], [[*B044]], [[*B086]]
 Need to try [[*B184]] and [[*B196]]
 ** Solve snake puzzle (Eus brand)
+Entered on [[*B053]]
 [[./images/snake]]
 Broken mural: [[./images/mural_B029.jpg]]
 Tail status (X = snake tail present):
@@ -52,6 +53,17 @@ Tail status (X = snake tail present):
 Let's try just filling them in row by row.
 Well that clearly doesn't work, it doesn't match by the second row.
 I'll try to wrangle them in GIMP.
+Lining up the images with the mural, the "negative space" seems to correspond to the placed blocks.
+Let's try:
+#+begin_src
+##..##
+..##..
+##...#
+###.##
+##.###
+##..##
+#+end_src
+This worked!!!!
 * Things to do/look out for (complete)
 ** Win without voiding
 This unlocked Lillie
@@ -931,6 +943,32 @@ Don't ask how I know...
 #+end_quote
 
 This is presumably the room for the broken mural on [[*B029]]
+We found the pattern in [[*Solve snake puzzle (Eus brand)]]
+Jumped down.
+Taken to a B??? with a glowing symbol, a boulder, a crystal, stairs, and a strange statue.
+Boulder:
+#+begin_quote
+You did well to find you way here...
+Figuring out the brands is only the first step...
+Think 'where' you can draw them...
+That's how you'll bend these halls to your will...
+#+end_quote
+
+Symbol:
+#+begin_quote
+[A strange seal]
+[You can't get any closer to it]
+[Suddenly, you hear a distant voice]
+Seek what remains of the first traitorous lord.
+Push the lorn idol guarding their weakness 23 times, then remain still and wait and wait...
+The first seal will be severed...
+#+end_quote
+Presumably we need to go see Tail and then bonk the weird statue 23 times?
+
+Statue:
+#+begin_quote
+My love...
+#+end_quote
 ** B054
 A bit tricky, be careful
 On second run: glowing orb appeared?!
